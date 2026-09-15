@@ -70,14 +70,14 @@ R.intestazione(d, 3, N)
 R.occhiello(d, (M, 250), "Dove si misura", C["navy600"])
 y = R.blocco(d, (M, 300), "Non un punto solo, ma diversi", 600, 80, C["ink"], tw, 1.1, -0.022)
 R.blocco(d, (M, y + 24), "Di solito da 3 a 7 pliche, a seconda del metodo scelto.", 400, 40, C["ink2"], tw, 1.5)
-punti = ["Pettorale", "Addominale", "Coscia", "Tricipite", "Sottoscapolare", "Soprailiaca", "Ascellare"]
-yy = 720; col = [M, M + tw // 2 + 10]
+punti = ["Bicipite", "Tricipite", "Sottoscapolare", "Soprailiaca", "Pettorale", "Addominale", "Coscia"]
+yy = 680; col = [M, M + tw // 2 + 10]
 for k, p in enumerate(punti):
-    x = col[k % 2]; yk = yy + (k // 2) * 118
-    d.rounded_rectangle((x, yk, x + tw // 2 - 10, yk + 96), radius=20, fill=C["bianco"], outline=C["riga"], width=2)
-    d.ellipse((x + 28, yk + 36, x + 52, yk + 60), fill=C["navy600"] if k < 3 else C["navy200"])
-    R.scrivi(d, (x + 76, yk + 28), p, R.F(500, 36), C["ink"])
-R.blocco(d, (M, yy + 4 * 118 + 6), "In blu scuro le tre pliche del metodo più usato negli uomini.", 400, 28, C["ink3"], tw, 1.4)
+    x = col[k % 2]; yk = yy + (k // 2) * 108
+    d.rounded_rectangle((x, yk, x + tw // 2 - 10, yk + 88), radius=20, fill=C["bianco"], outline=C["riga"], width=2)
+    d.ellipse((x + 28, yk + 32, x + 52, yk + 56), fill=C["navy600"] if k < 4 else C["navy200"])
+    R.scrivi(d, (x + 76, yk + 24), p, R.F(500, 36), C["ink"])
+R.blocco(d, (M, yy + 4 * 108 + 10), "In blu scuro le quattro pliche del metodo Durnin e Womersley, quello che uso io.", 400, 28, C["ink3"], tw, 1.4)
 R.piede(d)
 salva(im, 3)
 
@@ -91,15 +91,15 @@ yb = 760
 d.rounded_rectangle((M, yb, W - M, yb + 330), radius=28, fill=C["bianco"], outline=C["riga"], width=2)
 fnum = R.F(600, 64)
 xx = M + 44
-for k, v in enumerate(["14", "18", "13"]):
+for k, v in enumerate(["6", "10", "14", "16"]):
     R.scrivi(d, (xx, yb + 60), v, fnum, C["ink"]); xx += R.larghezza(v, fnum, 0) + 16
-    if k < 2:
+    if k < 3:
         R.scrivi(d, (xx, yb + 60), "+", fnum, C["ink3"]); xx += R.larghezza("+", fnum, 0) + 16
 R.scrivi(d, (xx, yb + 82), "mm", R.F(500, 36), C["ink3"])
 R.scrivi(d, (M + 44, yb + 170), "→", R.F(600, 64), C["ink3"])
-R.scrivi(d, (M + 140, yb + 150), "13,6 %", R.F(600, 104), C["navy600"], -0.02)
+R.scrivi(d, (M + 140, yb + 150), "20,6 %", R.F(600, 104), C["navy600"], -0.02)
 R.scrivi(d, (M + 44, yb + 272), "di massa grassa stimata", R.F(400, 30), C["ink2"])
-R.blocco(d, (M, yb + 370), "Esempio con l'equazione di Jackson e Pollock a 3 pliche: uomo di 30 anni.", 400, 28, C["ink3"], tw, 1.4)
+R.blocco(d, (M, yb + 370), "Esempio con l'equazione di Durnin e Womersley a 4 pliche: uomo di 30 anni.", 400, 28, C["ink3"], tw, 1.4)
 R.piede(d)
 salva(im, 4)
 
