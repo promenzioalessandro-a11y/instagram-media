@@ -1,192 +1,221 @@
 [
  {
   "id": "fisso-1-chi-sono",
-  "caption": "Biologo nutrizionista a Verona e online.\n\nNutrizione clinica, sportiva e salute intestinale, con un metodo che deve funzionare nella vita vera: tra lavoro, allenamenti e cene fuori.\n\nSe vuoi capire se posso aiutarti, scrivimi INFO in DM.\n\n#biologonutrizionista #nutrizionistaverona #ricomposizionecorporea",
+  "tipo": "fisso",
+  "caption": "Biologo nutrizionista, in cinque sedi in provincia di Verona e online.\n\nOgni scelta del piano parte dalle evidenze e te la spiego, perché quando sai perché fai una cosa la mantieni molto più a lungo.\n\nScrivimi INFO in DM per sapere sedi e disponibilità.\n\n#biologonutrizionista #nutrizionistaverona #nutrizionesportiva",
   "slides": [
    {
     "type": "cover",
     "kicker": "Chi sono",
-    "title": "Nutrizione su misura, senza estremismi",
-    "subtitle": "Dott. Alessandro Promenzio, biologo nutrizionista."
+    "title": "Un piano che regge la tua vita vera",
+    "subtitle": "Biologo nutrizionista a Verona e online."
    },
    {
     "type": "point",
     "num": 1,
-    "title": "Di cosa mi occupo",
-    "body": "Nutrizione clinica, nutrizione sportiva e salute intestinale. Dimagrimento e ricomposizione corporea sono il cuore del mio lavoro."
+    "title": "La formazione",
+    "body": "Laurea in Scienze e Tecnologie Alimentari e Laurea Magistrale in Scienze della Nutrizione Umana, all'Università di Parma. Iscritto all'Ordine dei Biologi, con aggiornamento continuo obbligatorio."
    },
    {
     "type": "point",
     "num": 2,
-    "title": "Come lavoro",
-    "body": "Niente diete drastiche e niente soluzioni che durano due settimane. Un piano costruito sulla tua vita reale, con rigore scientifico e attenzione alla persona."
+    "title": "Rigore scientifico",
+    "body": "Ogni scelta parte dalle evidenze più solide che ho a disposizione, e te la spiego: quando sai perché stai facendo una cosa, la mantieni molto più a lungo."
    },
    {
     "type": "point",
     "num": 3,
-    "title": "Perché lo faccio",
+    "title": "Esperienza pratica",
+    "body": "Il piano deve reggere il lavoro, gli allenamenti e le cene fuori. Se funziona solo in una settimana perfetta, prima o poi salta."
+   },
+   {
+    "type": "point",
+    "num": 4,
+    "title": "Perché faccio questo lavoro",
     "body": "Da ragazzo ho vissuto cosa vuol dire non sentirsi a proprio agio nel proprio corpo. Per questo non lavoro solo su cosa mangi, ma su come vivi il percorso."
    },
    {
     "type": "cta",
-    "title": "Dove mi trovi",
-    "body": "In cinque sedi in provincia di Verona e online. Scrivimi INFO in DM e ti rispondo entro 24 ore."
+    "kicker": "Dove ricevo",
+    "title": "Cinque sedi in provincia di Verona, oppure online",
+    "body": "Verona, Settimo di Pescantina, Peschiera del Garda, San Pietro in Cariano e Villafranca."
    }
   ],
   "stato": "bozza"
  },
  {
   "id": "fisso-2-come-funziona",
-  "caption": "Come funziona un percorso con me, in 4 passaggi.\n\nScrivimi INFO in DM per sapere sedi e disponibilità.\n\n#nutrizionista #primavisita #nutrizionistaverona",
+  "tipo": "fisso",
+  "caption": "Dalla prima visita al monitoraggio, in tre passaggi.\n\nLe prestazioni del biologo nutrizionista sono spese sanitarie: detraibili al 19% con pagamento tracciabile.\n\nScrivimi INFO in DM per sapere sedi e disponibilità.\n\n#nutrizionista #primavisita #nutrizionistaverona",
   "slides": [
    {
     "type": "cover",
     "kicker": "Il percorso",
-    "title": "Come funziona, passo per passo",
-    "subtitle": "Cosa succede dalla prima visita in poi."
+    "title": "Dalla prima visita al monitoraggio",
+    "subtitle": "Come funziona, passo per passo."
    },
    {
     "type": "point",
     "num": 1,
-    "title": "Prima visita",
-    "body": "Parliamo di obiettivi, abitudini, orari, gusti e storia clinica. Poi rileviamo le misure, per partire da dati concreti."
+    "title": "Valutazione iniziale",
+    "body": "Anamnesi completa, analisi della composizione corporea con plicometria e bioimpedenza, e obiettivi definiti insieme. Circa 60 minuti."
    },
    {
     "type": "point",
     "num": 2,
-    "title": "Il tuo piano",
-    "body": "Costruisco un piano alimentare su misura: compatibile con il tuo lavoro, i tuoi allenamenti e la tua vita sociale."
+    "title": "Strategia personalizzata",
+    "body": "Costruisco il piano sulle evidenze e sulla tua giornata vera: orari, allenamenti, quello che ti piace mangiare."
    },
    {
     "type": "point",
     "num": 3,
-    "title": "I controlli",
-    "body": "Ci rivediamo periodicamente per misurare i progressi e aggiustare il piano. I numeri guidano le scelte, non le sensazioni."
+    "title": "Monitoraggio e adattamento",
+    "body": "A ogni controllo rileggiamo insieme i dati e aggiorno il piano su come ha risposto il tuo corpo."
    },
    {
     "type": "point",
     "num": 4,
-    "title": "Il supporto",
-    "body": "Tra una visita e l'altra puoi scrivermi. Rispondo ai messaggi entro 24 ore."
+    "title": "Cosa portare",
+    "body": "Si comincia in ogni caso, anche a mani vuote. Se le hai, porta le analisi del sangue degli ultimi 12 mesi, i referti e la lista di farmaci o integratori in uso."
    },
    {
     "type": "cta",
-    "title": "In studio o online",
-    "body": "Cinque sedi in provincia di Verona, oppure consulenza online. Scrivimi INFO in DM."
+    "kicker": "Prenota",
+    "title": "Prima visita da 120 €, detraibile",
+    "body": "Detrazione del 19% con pagamento tracciabile. In studio o in videochiamata."
    }
   ],
   "stato": "bozza"
  },
  {
   "id": "fisso-3-risultati",
-  "caption": "Due percorsi, due obiettivi diversi, un metodo.\n\nSe vuoi iniziare il tuo, scrivimi INFO in DM.\n\n#bodytransformation #ricomposizionecorporea #dimagrimento",
+  "tipo": "fisso",
+  "caption": "Numeri misurati, non promesse. Ogni percorso è costruito sulla persona, e i risultati dipendono da dove si parte.\n\nPubblicati con il consenso delle persone.\n\nScrivimi INFO in DM.\n\n#ricomposizionecorporea #dimagrimento #nutrizionistaverona",
   "slides": [
    {
     "type": "cover",
-    "kicker": "Risultati reali",
-    "title": "Due percorsi, due obiettivi",
-    "subtitle": "Numeri misurati, non promesse."
+    "kicker": "Risultati",
+    "title": "Numeri misurati, non promesse",
+    "subtitle": "Quattro percorsi, quattro punti di partenza diversi."
    },
    {
     "type": "point",
     "num": 1,
-    "title": "Sophie: meno 19,5 cm di girovita",
-    "body": "Da 82,2 kg a sotto i 70 in 9 mesi. Girovita da 90,5 a 71 cm. Con stalli e periodi difficili, senza mai mollare."
+    "title": "Sophie, 20 anni: meno 15,3 kg",
+    "body": "In undici mesi, e 20 cm di girovita. Dallo stato di obesità al normopeso.\nPeso 82,2 → 66,9 kg."
    },
    {
     "type": "point",
     "num": 2,
-    "title": "Marco: body fat dal 19% all'11,9%",
-    "body": "Meno 5 kg di massa grassa e più 1 kg di massa muscolare. Una ricomposizione corporea come base per crescere."
-   },
-   {
-    "type": "cta",
-    "title": "Il prossimo percorso può essere il tuo",
-    "body": "Ogni piano è costruito sulla persona. Scrivimi INFO in DM."
-   }
-  ],
-  "stato": "bozza"
- },
- {
-  "id": "sett-1-pane-sera",
-  "caption": "Il pane la sera fa ingrassare? Il problema non è l'orologio.\n\nSalva il post per quando qualcuno te lo ripete.\n\n#mitialimentari #nutrizione #biologonutrizionista",
-  "slides": [
-   {
-    "type": "cover",
-    "kicker": "Miti alimentari",
-    "title": "Il pane la sera fa ingrassare?",
-    "subtitle": "Spoiler: il problema non è l'orologio."
-   },
-   {
-    "type": "point",
-    "num": 1,
-    "title": "Conta il totale, non l'orario",
-    "body": "Il peso cambia in base all'energia che introduci nell'arco della giornata e delle settimane. Lo stesso pane vale uguale alle 13 e alle 20."
-   },
-   {
-    "type": "point",
-    "num": 2,
-    "title": "Allora da dove nasce il mito?",
-    "body": "La sera spesso si mangia di più: stanchezza, fame accumulata, divano. Non è il pane a essere diverso, è la quantità."
+    "title": "Luca, 23 anni: più 4 kg di muscolo",
+    "body": "In tre mesi e mezzo, e 9,2 kg di massa grassa in meno. Il girovita è passato da 81 a 72,5 cm.\nMassa muscolare 23,1 → 27,1 kg."
    },
    {
     "type": "point",
     "num": 3,
-    "title": "Cosa fare in pratica",
-    "body": "Distribuisci i pasti in modo che la fame non arrivi tutta la sera. E scegli porzioni adatte al tuo fabbisogno, a qualsiasi ora."
-   },
-   {
-    "type": "cta",
-    "title": "Vuoi un piano che rispetti i tuoi orari?",
-    "body": "Scrivimi INFO in DM: ti spiego come funziona la prima visita, a Verona o online."
-   }
-  ],
-  "stato": "bozza"
- },
- {
-  "id": "sett-2-ricomposizione",
-  "caption": "Perdere grasso e mettere muscolo nello stesso momento si può. A certe condizioni.\n\nSalvalo se ti alleni.\n\n#ricomposizionecorporea #nutrizionesportiva #palestra",
-  "slides": [
-   {
-    "type": "cover",
-    "kicker": "Ricomposizione corporea",
-    "title": "Perdere grasso e mettere muscolo insieme?",
-    "subtitle": "Sì, si può. Ecco quando."
-   },
-   {
-    "type": "point",
-    "num": 1,
-    "title": "Cos'è",
-    "body": "Ricomposizione corporea significa ridurre la massa grassa e aumentare quella muscolare nello stesso periodo. La bilancia può muoversi poco, ma il corpo cambia."
-   },
-   {
-    "type": "point",
-    "num": 2,
-    "title": "A chi riesce più facilmente",
-    "body": "A chi ha appena iniziato ad allenarsi, a chi riprende dopo una pausa e a chi parte con una quota di grasso più alta."
-   },
-   {
-    "type": "point",
-    "num": 3,
-    "title": "Le condizioni",
-    "body": "Allenamento con i sovraccarichi, proteine sufficienti, un deficit calorico moderato e un buon riposo. Se manca uno di questi, il risultato rallenta."
+    "title": "Giancarlo, 32 anni: meno 16,5 cm di girovita",
+    "body": "In un anno, e 8,2 kg di peso. Controllo dopo controllo, il girovita non è mai risalito.\nGirovita 100 → 83,5 cm."
    },
    {
     "type": "point",
     "num": 4,
-    "title": "Come misurarla",
-    "body": "Non con la sola bilancia. Servono circonferenze e plicometria, per vedere cosa sta cambiando davvero."
+    "title": "Emanuel, 45 anni: meno 12,5 kg",
+    "body": "In poco più di tre mesi, e 8,9 kg di massa grassa in meno. Otto mesi dopo, altri 3,4 kg di massa grassa in meno.\nPeso 96,3 → 83,8 kg."
    },
    {
     "type": "cta",
-    "title": "Vuoi sapere a che punto sei?",
-    "body": "Nella prima visita misuriamo la tua composizione corporea. Scrivimi INFO in DM."
+    "kicker": "Il tuo percorso",
+    "title": "Da dove parti tu?",
+    "body": "Un obiettivo realistico lo definiamo insieme dopo la prima valutazione, con i numeri davanti."
    }
   ],
   "stato": "bozza"
  },
  {
-  "id": "sett-3-bilancia",
+  "id": "sett-01-recensioni",
+  "tipo": "settimanale",
+  "caption": "5,0 su Google, con 24 recensioni. Qui ne trovi quattro, parola per parola.\n\nGrazie a chi ha scritto.\n\n#recensioni #nutrizionistaverona #biologonutrizionista",
+  "slides": [
+   {
+    "type": "cover",
+    "kicker": "Recensioni Google",
+    "title": "5,0 su 24 recensioni",
+    "subtitle": "Quattro, parola per parola."
+   },
+   {
+    "type": "quote",
+    "stars": 5,
+    "author": "Barbara F.",
+    "text": "Finalmente un biologo nutrizionista preparato, seppur giovane, mi ha aiutata a perdere quei chili in più dovuti alla menopausa. Fa un'analisi approfondita del tuo corpo e in base alle tue preferenze ti prepara la dieta, che dieta non è perché ho finalmente imparato a mangiare correttamente, senza sentire la fame. Consiglio vivamente il dott. Promenzio."
+   },
+   {
+    "type": "quote",
+    "stars": 5,
+    "author": "Giulia S.",
+    "text": "Professionale, puntuale e attento alle esigenze. Umano e ti aiuta, ascoltandoti e modifica il piano in itinere per seguire i tuoi bisogni e i tuoi gusti. Disponibile, telefonicamente, per chiarimenti."
+   },
+   {
+    "type": "quote",
+    "stars": 5,
+    "author": "Saverio N.",
+    "text": "A maggio ho iniziato il percorso nutrizionale, per la prima volta nella mia vita, con il Dott. Promenzio. Mi sto trovando benissimo, ho ottenuto da subito ottimi risultati sia in termini di peso che di benessere. Questo mi motiva molto a proseguire. È molto competente, disponibile e spiega in modo chiaro. Lo consiglio a tutti!"
+   },
+   {
+    "type": "quote",
+    "stars": 5,
+    "author": "Antonio M.",
+    "text": "Alessandro non è un semplice nutrizionista ma un professionista capace di indirizzarti verso gli obiettivi nel rispetto dei giusti tempi di cui ognuno ha bisogno. Altre note positive sono la disponibilità, la ricerca di feedback al di fuori delle visite concordate e soprattutto la capacità di spiegare in maniera semplice i concetti “tecnici” che ci sono dietro ogni scelta del piano. Personalmente sono soddisfatto degli obiettivi che abbiamo raggiunto e fiducioso di tutto quello che verrà."
+   },
+   {
+    "type": "cta",
+    "kicker": "Prenota",
+    "title": "Vuoi iniziare anche tu?",
+    "body": "Cinque sedi in provincia di Verona, oppure online."
+   }
+  ],
+  "stato": "bozza"
+ },
+ {
+  "id": "sett-02-bilancia-cucina",
+  "tipo": "settimanale",
+  "caption": "Devo pesare tutto quello che mangio? Per un po' può servire. Per sempre, no.\n\nSalvalo se la bilancia da cucina ti sta stretta.\n\n#educazionealimentare #nutrizione #biologonutrizionista",
+  "slides": [
+   {
+    "type": "cover",
+    "kicker": "Domande frequenti",
+    "title": "Devo pesare tutti gli alimenti?",
+    "subtitle": "Per un po' può servire. Per sempre, no."
+   },
+   {
+    "type": "point",
+    "num": 1,
+    "title": "All'inizio è uno strumento",
+    "body": "Nella prima fase pesare aiuta a calibrare le porzioni e a farsi l'occhio: capire com'è davvero una porzione di pasta o di formaggio."
+   },
+   {
+    "type": "point",
+    "num": 2,
+    "title": "Non è il traguardo",
+    "body": "Un piano che regge solo con la bilancia da cucina in mano non regge. Fuori casa, in viaggio, a cena da amici, la bilancia non c'è."
+   },
+   {
+    "type": "point",
+    "num": 3,
+    "title": "L'obiettivo è l'autonomia",
+    "body": "Il lavoro è arrivare al punto in cui non ne hai più bisogno, perché sai già riconoscere quanto ti serve."
+   },
+   {
+    "type": "cta",
+    "kicker": "Prenota",
+    "title": "Un piano che funziona anche fuori casa",
+    "body": "Scrivimi e costruiamo insieme il tuo, in studio o online."
+   }
+  ],
+  "stato": "bozza"
+ },
+ {
+  "id": "sett-03-peso-oscilla",
+  "tipo": "settimanale",
   "caption": "Ieri 70, oggi 71,2. Hai preso grasso? Quasi certamente no.\n\n#dimagrimento #pesocorporeo #nutrizionista",
   "slides": [
    {
@@ -205,7 +234,7 @@
     "type": "point",
     "num": 2,
     "title": "Carboidrati e glicogeno",
-    "body": "Il glicogeno nei muscoli si lega all'acqua. Dopo un pasto ricco di carboidrati è normale pesare di più il giorno dopo."
+    "body": "Il glicogeno immagazzinato nei muscoli trattiene acqua. Dopo un pasto ricco di carboidrati è normale pesare di più il giorno dopo."
    },
    {
     "type": "point",
@@ -216,32 +245,116 @@
    {
     "type": "point",
     "num": 4,
-    "title": "Come pesarti",
-    "body": "Sempre alla stessa ora, nelle stesse condizioni. E guarda la media delle settimane, non il singolo giorno."
+    "title": "Guarda la tendenza, e il girovita",
+    "body": "Pesati alla stessa ora e nelle stesse condizioni, e guarda la media delle settimane. Il girovita spesso racconta il cambiamento meglio della bilancia."
    },
    {
     "type": "cta",
+    "kicker": "Prenota",
     "title": "Numeri che contano davvero",
-    "body": "Nel percorso misuriamo anche circonferenze e composizione corporea. Scrivimi INFO in DM."
+    "body": "A ogni controllo misuriamo composizione corporea e circonferenze, non solo il peso."
    }
   ],
   "stato": "bozza"
  },
  {
-  "id": "sett-4-proteine",
+  "id": "sett-04-ricomposizione",
+  "tipo": "settimanale",
+  "caption": "Perdere grasso e mettere muscolo nello stesso momento si può. A certe condizioni.\n\nSalvalo se ti alleni.\n\n#ricomposizionecorporea #nutrizionesportiva #palestra",
+  "slides": [
+   {
+    "type": "cover",
+    "kicker": "Ricomposizione corporea",
+    "title": "Perdere grasso e mettere muscolo insieme?",
+    "subtitle": "Si può. Ecco quando."
+   },
+   {
+    "type": "point",
+    "num": 1,
+    "title": "Che cos'è",
+    "body": "Ridurre la massa grassa e aumentare quella muscolare nello stesso periodo. La bilancia può muoversi poco, ma il corpo cambia."
+   },
+   {
+    "type": "point",
+    "num": 2,
+    "title": "A chi riesce più facilmente",
+    "body": "A chi ha appena iniziato ad allenarsi, a chi riprende dopo una pausa e a chi parte con più massa grassa."
+   },
+   {
+    "type": "point",
+    "num": 3,
+    "title": "Le condizioni",
+    "body": "Allenamento con i sovraccarichi, proteine sufficienti, un deficit calorico moderato e un buon recupero. Se ne manca una, il risultato rallenta."
+   },
+   {
+    "type": "point",
+    "num": 4,
+    "title": "Come si misura",
+    "body": "Non con la sola bilancia. Plicometria, bioimpedenza e circonferenze dicono cosa sta cambiando davvero."
+   },
+   {
+    "type": "cta",
+    "kicker": "Prenota",
+    "title": "Vuoi sapere a che punto sei?",
+    "body": "L'analisi della composizione corporea è compresa nella prima visita e in ogni controllo."
+   }
+  ],
+  "stato": "bozza"
+ },
+ {
+  "id": "sett-05-pane-sera",
+  "tipo": "settimanale",
+  "caption": "Il pane la sera fa ingrassare? Il problema non è l'orologio.\n\nSalvalo per quando qualcuno te lo ripete.\n\n#mitialimentari #nutrizione #biologonutrizionista",
+  "slides": [
+   {
+    "type": "cover",
+    "kicker": "Miti alimentari",
+    "title": "Il pane la sera fa ingrassare?",
+    "subtitle": "Il problema non è l'orologio."
+   },
+   {
+    "type": "point",
+    "num": 1,
+    "title": "Conta il totale, non l'orario",
+    "body": "Il peso cambia in base all'energia introdotta nell'arco dei giorni e delle settimane. Lo stesso pane non vale di più alle 20 che alle 13."
+   },
+   {
+    "type": "point",
+    "num": 2,
+    "title": "Da dove nasce il mito",
+    "body": "La sera spesso si mangia di più: stanchezza, fame accumulata, divano. Non è il pane a essere diverso, è la quantità."
+   },
+   {
+    "type": "point",
+    "num": 3,
+    "title": "Cosa fare in pratica",
+    "body": "Distribuisci i pasti in modo che la fame non arrivi tutta la sera, e scegli porzioni adatte a te, a qualsiasi ora."
+   },
+   {
+    "type": "cta",
+    "kicker": "Prenota",
+    "title": "Un piano costruito sui tuoi orari",
+    "body": "Lavoro, allenamenti, cene fuori: il piano parte dalla tua giornata vera."
+   }
+  ],
+  "stato": "bozza"
+ },
+ {
+  "id": "sett-06-proteine",
+  "tipo": "settimanale",
   "caption": "Quante proteine servono davvero? Dipende da chi sei e da cosa fai.\n\nSalvalo per la prossima spesa.\n\n#proteine #nutrizionesportiva #biologonutrizionista",
   "slides": [
    {
     "type": "cover",
     "kicker": "Proteine",
     "title": "Quante te ne servono davvero?",
-    "subtitle": "Meno di quanto dice la palestra, più di quanto pensi."
+    "subtitle": "Dipende da chi sei e da cosa fai."
    },
    {
     "type": "point",
     "num": 1,
-    "title": "Adulto sedentario",
-    "body": "Per un adulto sano i riferimenti italiani (LARN) indicano circa 0,9 g di proteine per kg di peso corporeo al giorno."
+    "title": "Adulto sano",
+    "body": "I riferimenti italiani (LARN) indicano per l'adulto circa 0,9 g di proteine per kg di peso corporeo al giorno."
    },
    {
     "type": "point",
@@ -259,12 +372,89 @@
     "type": "point",
     "num": 4,
     "title": "E gli integratori?",
-    "body": "Sono una comodità, non un obbligo. Servono solo se con il cibo non arrivi alla quota che ti serve."
+    "body": "L'integrazione entra dopo il piano alimentare, quando c'è una ragione precisa, non al posto del piano."
    },
    {
     "type": "cta",
+    "kicker": "Prenota",
     "title": "Qual è la tua quota?",
-    "body": "Dipende da peso, obiettivo e allenamento. La calcoliamo insieme: scrivimi INFO in DM."
+    "body": "Dipende da peso, composizione corporea, obiettivo e allenamento. La calcoliamo insieme."
+   }
+  ],
+  "stato": "bozza"
+ },
+ {
+  "id": "sett-07-quanto-peso",
+  "tipo": "settimanale",
+  "caption": "Quanto peso posso perdere? Chi ti dà un numero prima di averti visto sta indovinando.\n\n#dimagrimento #nutrizionista #nutrizionistaverona",
+  "slides": [
+   {
+    "type": "cover",
+    "kicker": "Domande frequenti",
+    "title": "Quanto peso posso perdere?",
+    "subtitle": "La risposta onesta."
+   },
+   {
+    "type": "point",
+    "num": 1,
+    "title": "Nessun numero a scatola chiusa",
+    "body": "Chi te lo dice prima di averti visto sta indovinando. Dipende da dove parti, dalla tua composizione corporea e da come è fatta la tua giornata."
+   },
+   {
+    "type": "point",
+    "num": 2,
+    "title": "Prima si misura",
+    "body": "Nella prima visita analizziamo la composizione corporea: quanto del tuo peso è massa grassa e quanto è massa magra."
+   },
+   {
+    "type": "point",
+    "num": 3,
+    "title": "Poi si decide insieme",
+    "body": "Un obiettivo realistico lo definiamo dopo la valutazione, con i numeri davanti. E l'obiettivo dichiarato è che il risultato regga anche dopo."
+   },
+   {
+    "type": "cta",
+    "kicker": "Prenota",
+    "title": "Partiamo dai tuoi numeri",
+    "body": "Prima visita di circa 60 minuti, analisi della composizione corporea compresa."
+   }
+  ],
+  "stato": "bozza"
+ },
+ {
+  "id": "sett-08-detrazione",
+  "tipo": "settimanale",
+  "caption": "La visita dal biologo nutrizionista è una spesa sanitaria: si detrae nel 730.\n\nSalvalo per la prossima dichiarazione.\n\n#730 #detrazioni #nutrizionista",
+  "slides": [
+   {
+    "type": "cover",
+    "kicker": "Spese sanitarie",
+    "title": "La visita dal nutrizionista si detrae?",
+    "subtitle": "Sì. Ecco le due condizioni."
+   },
+   {
+    "type": "point",
+    "num": 1,
+    "title": "È una spesa sanitaria",
+    "body": "Il biologo nutrizionista è un professionista sanitario iscritto all'Ordine. Le sue prestazioni rientrano tra le spese sanitarie detraibili al 19%."
+   },
+   {
+    "type": "point",
+    "num": 2,
+    "title": "Pagamento tracciabile",
+    "body": "Per avere la detrazione il pagamento deve essere tracciabile: carta, bancomat, bonifico. In contanti la detrazione si perde."
+   },
+   {
+    "type": "point",
+    "num": 3,
+    "title": "Conserva la fattura",
+    "body": "La fattura intestata a te è il documento che serve per la dichiarazione dei redditi."
+   },
+   {
+    "type": "cta",
+    "kicker": "Prenota",
+    "title": "Prima visita da 120 €",
+    "body": "Detraibile al 19% con pagamento tracciabile. In studio o online."
    }
   ],
   "stato": "bozza"
