@@ -77,7 +77,7 @@ for k, p in enumerate(punti):
     d.rounded_rectangle((x, yk, x + tw // 2 - 10, yk + 88), radius=20, fill=C["bianco"], outline=C["riga"], width=2)
     d.ellipse((x + 28, yk + 32, x + 52, yk + 56), fill=C["navy600"] if k < 4 else C["navy200"])
     R.scrivi(d, (x + 76, yk + 24), p, R.F(500, 36), C["ink"])
-R.blocco(d, (M, yy + 4 * 108 + 10), "In blu scuro le quattro pliche del metodo Durnin e Womersley, quello che uso io.", 400, 28, C["ink3"], tw, 1.4)
+R.blocco(d, (M, yy + 4 * 108 + 10), "In blu scuro le quattro pliche del metodo Durnin e Womersley, tra i più usati.", 400, 28, C["ink3"], tw, 1.4)
 R.piede(d)
 salva(im, 3)
 
