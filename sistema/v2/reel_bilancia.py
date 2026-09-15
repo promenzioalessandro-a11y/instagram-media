@@ -99,7 +99,7 @@ for f in ([] if SOLO_VIDEO else range(_a, _b)):
         a = min(1, ts / 0.4)
         mono = None
         R.occhiello(d, (M, 1000), "Prima visita a Verona e online", C["azione_scuro"])
-        R.blocco(d, (M, 1060), "Scrivimi INFO in DM", 600, 96, C["su_scuro"], W - 2 * M, 1.05, -0.028)
+        R.blocco(d, (M, 1060), "Scrivimi INFO nei DM", 600, 96, C["su_scuro"], W - 2 * M, 1.05, -0.028)
         R.scrivi(d, (M, 1200), "@dott_promenzio", R.F(500, 44), C["su_scuro2"])
         firma(d)
         if a < 1:
