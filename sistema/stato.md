@@ -14,19 +14,21 @@ Aggiornare questo file a ogni cambiamento.
 - Le storie di rilancio le condivide Alessandro dall'app (riquadro cliccabile); noi forniamo il testo.
 - Alessandro non gira video; il formato reel con solo voce e' in discussione (teme poco coinvolgimento senza il volto).
 - Copertine dei prossimi post: con il volto di Alessandro e un gancio forte.
-- Risposte automatiche per parola chiave (INFO): non disponibili in Meta Business Suite per questo account (solo Auto reply, Away message, Messaggi senza risposta). Decisione 17/09: niente strumenti esterni, INFO si gestisce con la risposta salvata /info.
+- Risposte automatiche per parola chiave (INFO): non disponibili in Meta Business Suite per questo account. Decisione 17/09: niente strumenti esterni, INFO si gestisce con la risposta salvata /info.
+- Post da fissare: niente numeri che invecchiano (conteggio recensioni, media). Le recensioni Google non sono tutte a 5 stelle: mai scriverlo.
+- Orario migliore secondo Meta (settimana 14/09): giovedi 19:00.
 
 ## Pubblicato
-- 15/09/2026 20:47 carosello plicometro (media 17875423812562328, https://www.instagram.com/p/DdUY11qjUYq/). 16/09 mattina: reach 144, views 344, like 16, 1 condivisione, 0 salvataggi. Storia di rilancio condivisa il 16/09 14:45.
+- 15/09/2026 20:47 carosello plicometro (media 17875423812562328, https://www.instagram.com/p/DdUY11qjUYq/). Storia di rilancio condivisa il 16/09 14:45.
 
 ## In coda (bozze pronte, servono ok)
-- Carosello Recensioni (media/recensioni/v6): proposto per 17/09 20:45, in attesa di ok. Verificare numero recensioni Google (24) il giorno stesso.
+- Carosello Recensioni v10 (6 slide: copertina "Cosa dicono le persone che seguo", Flavia B. estratto, Saverio N., Barbara F., Giuseppe L. estratto, chiusura). Da fissare in alto. Esclusa Silvia (dettagli personali). Alessandro dubita che il formato suoni da spaccone; da verificare con l'Ordine le regole sulle testimonianze nella pubblicita' sanitaria (L. 145/2018 c. 525). Serve il link della scheda Google per la storia con adesivo link.
 - Carosello fissato Prima visita (da caricare dopo ok).
 - 12 storie per le storie in evidenza Chi sono, Prima visita, Recensioni + 3 copertine (Alessandro crea gli evidenza dall'app).
 - Reel bilancia: in pausa, manca decisione sul formato e la voce.
 
 ## Fatto lato Alessandro
-- 17/09: risposta automatica (Auto reply, primo messaggio) attiva in Meta Business Suite.
+- 17/09: risposta automatica (Auto reply) attiva con testo nuovo (sistema/risposta_automatica.md).
 
 ## Da fare lato Alessandro
 - Bio aggiornata (testo proposto il 17/09), risposta salvata /info nell'app Instagram, fissare i post.
