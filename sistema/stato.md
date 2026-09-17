@@ -21,8 +21,10 @@ Aggiornare questo file a ogni cambiamento.
 ## Pubblicato
 - 15/09/2026 20:47 carosello plicometro (media 17875423812562328, https://www.instagram.com/p/DdUY11qjUYq/). Storia di rilancio condivisa il 16/09 14:45.
 
+## Programmato
+- 17/09/2026 19:00 carosello Recensioni v12 (6 slide: copertina "Recensioni / Cosa dicono le persone che seguo / 5,0 su Google", Flavia B. estratto, Saverio N., Barbara F., Giuseppe L. estratto, chiusura), programmato da Alessandro in Meta Business Suite. Didascalia con "Dott. Alessandro Promenzio Biologo Nutrizionista - Verona" e "scrivimi INFO nei DM". Dopo la pubblicazione: fissarlo in alto; storia di rilancio con adesivo link alla scheda Google (serve il link). Esclusa Silvia (dettagli personali). Dubbio aperto: regole dell'Ordine sulle testimonianze (L. 145/2018 c. 525).
+
 ## In coda (bozze pronte, servono ok)
-- Carosello Recensioni v10 (6 slide: copertina "Cosa dicono le persone che seguo", Flavia B. estratto, Saverio N., Barbara F., Giuseppe L. estratto, chiusura). Da fissare in alto. Esclusa Silvia (dettagli personali). Alessandro dubita che il formato suoni da spaccone; da verificare con l'Ordine le regole sulle testimonianze nella pubblicita' sanitaria (L. 145/2018 c. 525). Serve il link della scheda Google per la storia con adesivo link.
 - Carosello fissato Prima visita (da caricare dopo ok).
 - 12 storie per le storie in evidenza Chi sono, Prima visita, Recensioni + 3 copertine (Alessandro crea gli evidenza dall'app).
 - Reel bilancia: in pausa, manca decisione sul formato e la voce.
