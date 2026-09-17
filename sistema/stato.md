@@ -17,12 +17,13 @@ Aggiornare questo file a ogni cambiamento.
 - Risposte automatiche per parola chiave (INFO): non disponibili in Meta Business Suite per questo account. Decisione 17/09: niente strumenti esterni, INFO si gestisce con la risposta salvata /info.
 - Post da fissare: niente numeri che invecchiano (conteggio recensioni, media). Le recensioni Google non sono tutte a 5 stelle: mai scriverlo.
 - Orario migliore secondo Meta (settimana 14/09): giovedi 19:00.
+- Link scheda Google (verificato 17/09, anche in incognito): https://share.google/gAXudKOQoKiRNYmxz . Nome scheda: "Dott. Alessandro Promenzio Biologo Nutrizionista - Verona".
 
 ## Pubblicato
 - 15/09/2026 20:47 carosello plicometro (media 17875423812562328, https://www.instagram.com/p/DdUY11qjUYq/). Storia di rilancio condivisa il 16/09 14:45.
 
 ## Programmato
-- 17/09/2026 19:00 carosello Recensioni v12 (6 slide: copertina "Recensioni / Cosa dicono le persone che seguo / 5,0 su Google", Flavia B. estratto, Saverio N., Barbara F., Giuseppe L. estratto, chiusura), programmato da Alessandro in Meta Business Suite. Didascalia con "Dott. Alessandro Promenzio Biologo Nutrizionista - Verona" e "scrivimi INFO nei DM". Dopo la pubblicazione: fissarlo in alto; storia di rilancio con adesivo link alla scheda Google (serve il link). Esclusa Silvia (dettagli personali). Dubbio aperto: regole dell'Ordine sulle testimonianze (L. 145/2018 c. 525).
+- 17/09/2026 19:00 carosello Recensioni v12 (6 slide: copertina "Recensioni / Cosa dicono le persone che seguo / 5,0 su Google", Flavia B. estratto, Saverio N., Barbara F., Giuseppe L. estratto, chiusura), programmato da Alessandro in Meta Business Suite. Didascalia con "Dott. Alessandro Promenzio Biologo Nutrizionista - Verona" e "scrivimi INFO nei DM". Dopo la pubblicazione: fissarlo in alto; storia di rilancio (testo "Cosa dicono le persone che seguo", adesivo link "Leggi tutte le recensioni" al link della scheda Google). Esclusa Silvia (dettagli personali). Dubbio aperto: regole dell'Ordine sulle testimonianze (L. 145/2018 c. 525).
 
 ## In coda (bozze pronte, servono ok)
 - Carosello fissato Prima visita (da caricare dopo ok).
