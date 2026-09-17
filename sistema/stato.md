@@ -14,15 +14,19 @@ Aggiornare questo file a ogni cambiamento.
 - Le storie di rilancio le condivide Alessandro dall'app (riquadro cliccabile); noi forniamo il testo.
 - Alessandro non gira video; il formato reel con solo voce e' in discussione (teme poco coinvolgimento senza il volto).
 - Copertine dei prossimi post: con il volto di Alessandro e un gancio forte.
+- Risposte automatiche per parola chiave (INFO): non disponibili in Meta Business Suite per questo account (solo Auto reply, Away message, Messaggi senza risposta). Decisione 17/09: niente strumenti esterni, INFO si gestisce con la risposta salvata /info.
 
 ## Pubblicato
 - 15/09/2026 20:47 carosello plicometro (media 17875423812562328, https://www.instagram.com/p/DdUY11qjUYq/). 16/09 mattina: reach 144, views 344, like 16, 1 condivisione, 0 salvataggi. Storia di rilancio condivisa il 16/09 14:45.
 
 ## In coda (bozze pronte, servono ok)
-- Carosello Recensioni (media/recensioni/v6): verificare numero recensioni Google (24) il giorno stesso.
+- Carosello Recensioni (media/recensioni/v6): proposto per 17/09 20:45, in attesa di ok. Verificare numero recensioni Google (24) il giorno stesso.
 - Carosello fissato Prima visita (da caricare dopo ok).
 - 12 storie per le storie in evidenza Chi sono, Prima visita, Recensioni + 3 copertine (Alessandro crea gli evidenza dall'app).
 - Reel bilancia: in pausa, manca decisione sul formato e la voce.
 
+## Fatto lato Alessandro
+- 17/09: risposta automatica (Auto reply, primo messaggio) attiva in Meta Business Suite.
+
 ## Da fare lato Alessandro
-- Bio aggiornata, auto reply in Meta Business Suite (testo da 434 caratteri), risposte salvate /info, fissare i post.
+- Bio aggiornata (testo proposto il 17/09), risposta salvata /info nell'app Instagram, fissare i post.
