@@ -31,7 +31,7 @@ Aggiornare questo file a ogni cambiamento.
 
 ## In coda (bozze pronte, servono ok)
 - Carosello Prima visita: prossimo post, martedi' 22/09 sera. Bozza da mandare ad Alessandro lunedi' 21/09, copertina con il suo volto. Poi lo fissa in alto (terzo post fissato).
-- 12 storie per le storie in evidenza Chi sono, Prima visita, Recensioni + 3 copertine (Alessandro crea gli evidenza dall'app).
+- Storie in evidenza: Recensioni consegnato il 18/09. Restano Chi sono e Prima visita (testi + copertine), Alessandro crea gli evidenza dall'app.
 - Reel bilancia: in pausa, manca decisione sul formato e la voce.
 
 ## Fatto lato Alessandro
@@ -40,8 +40,9 @@ Aggiornare questo file a ogni cambiamento.
 - 17/09: storia di rilancio del carosello Recensioni.
 
 ## Aperto lato gestione
-- Un commento sul carosello Recensioni (media 18411693961085733) e' senza risposta: preparare la risposta, farla approvare, poi reply_to_comment. Al 17/09 21:10 la tabella comments di Windsor era ancora vuota per ritardo dati.
+- Commento sul carosello Recensioni (media 18411693961085733, comment_id 18089837858344441, 17/09 19:33): e' solo un applauso, nessuna domanda. Bozza di risposta mandata il 18/09 mattina: "Grazie, mi fa piacere che il post ti sia piaciuto." In attesa dell'ok di Alessandro, poi reply_to_comment.
 
 ## Da fare lato Alessandro
-- Fissare in alto il post Recensioni.
+- Fissare in alto il post Recensioni (ricordato il 18/09: post, tre puntini, Fissa sul tuo profilo).
+- Storie in evidenza Recensioni: testi delle 5 storie consegnati il 18/09 (si riusano le slide del carosello del 17/09) piu' i passaggi per creare l'evidenza dall'app.
 - Facoltativo: risposta salvata "info" per chi riscrive dopo il primo messaggio.
