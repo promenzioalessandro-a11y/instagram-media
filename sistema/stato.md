@@ -32,11 +32,11 @@ Aggiornare questo file a ogni cambiamento.
 
 ## Pubblicato
 - 15/09/2026 20:47 carosello plicometro (media 17875423812562328, https://www.instagram.com/p/DdUY11qjUYq/). Storia di rilancio condivisa il 16/09 14:45.
-- 17/09/2026 19:00 carosello Recensioni v12 (media 18411693961085733, https://www.instagram.com/p/DdZWRIOjph9/), programmato da Alessandro in Meta Business Suite. Slide: copertina, Flavia B., Saverio N., Barbara F., Giuseppe L., chiusura. Esclusa Silvia (dettagli personali). Storia di rilancio con adesivo link condivisa il 17/09 alle 19:33. Commenti: applauso del 17/09 gestito da Alessandro con un cuore; commento di Claudio (studio_santelli) del 18/09 17:08, risposta pubblicata da Alessandro il 18/09 alle 18:05. Nessun altro commento al 19/09.
+- 17/09/2026 19:00 carosello Recensioni v12 (media 18411693961085733, https://www.instagram.com/p/DdZWRIOjph9/), programmato da Alessandro in Meta Business Suite. Slide: copertina, Flavia B., Saverio N., Barbara F., Giuseppe L., chiusura. Esclusa Silvia (dettagli personali). Storia di rilancio con adesivo link condivisa il 17/09 alle 19:33. Commenti: applauso del 17/09 gestito da Alessandro con un cuore; commento di Claudio (studio_santelli) del 18/09 17:08, risposta pubblicata da Alessandro il 18/09 alle 18:05. Nessun altro commento al 19/09 sera.
 
 ## In coda (bozze pronte, servono ok)
 - Carosello Prima visita: bozza v1 mandata ad Alessandro il 18/09 mattina e rimandata il 19/09 mattina (secondo sollecito). Testo completo in sistema/bozze/prima_visita_v1.md. In attesa del suo riscontro. Pubblicazione prevista martedi' 22/09 sera, poi lo fissa in alto (terzo post fissato). Base: fisso-2-come-funziona in sistema/piano.json, rivisto (composizione corporea solo in studio, prezzo senza numeri per sede, CTA INFO nei DM).
-- Storia del 19/09 (detrazione 19%, CTA INFO nei DM), orario suggerito 11:00 o 19:30. Testo in sistema/bozze/storia_19_09.md. In attesa dell'ok.
+- Storia detrazione 19% (CTA INFO nei DM). Testo in sistema/bozze/storia_19_09.md. Proposta per il 19/09 alle 11:00 o 19:30: al controllo delle 19:00 del 19/09 non risultava ancora condivisa e non era arrivato l'ok. Secondo sollecito mandato la sera del 19/09. Se salta, riproporla domenica 20/09 verso le 11:00.
 - Reel bilancia: in pausa, manca decisione sul formato e la voce.
 
 ## Fatto lato Alessandro
@@ -48,10 +48,11 @@ Aggiornare questo file a ogni cambiamento.
 - 18/09: risposta al commento di Claudio (studio_santelli) scritta da Alessandro.
 
 ## Aperto lato gestione
-- Nessun commento in attesa di risposta al 19/09 mattina (controllo Windsor, ultimi 7 giorni).
-- In attesa dell'ok sulla storia proposta per il 19/09.
+- Nessun commento in attesa di risposta al controllo delle 19:00 del 19/09 (Windsor, ultimi 7 giorni): l'ultimo e' quello di Claudio del 18/09, gia' con risposta di Alessandro.
+- In attesa dell'ok sulla storia detrazione 19%.
+- Nessuna storia risulta pubblicata tra il 17/09 sera e il 19/09 sera.
 
 ## Da fare lato Alessandro
 - Riscontro sulla bozza del carosello Prima visita (sollecitato il 18 e il 19/09; serve entro lunedi' 21/09 per pubblicare martedi' 22/09 sera).
-- Ok o correzioni alla storia proposta per il 19/09.
+- Ok o correzioni alla storia detrazione 19%.
 - Facoltativo: risposta salvata "info" per chi riscrive dopo il primo messaggio (Meta Business Suite, Posta in arrivo, Risposte salvate).
