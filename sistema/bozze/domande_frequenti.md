@@ -1,7 +1,7 @@
 # Bozza: Domande frequenti nei DM e risposta salvata "info"
 
 Stato: in attesa dell'ok di Alessandro (19/09).
-Motivo: la risposta automatica di Meta Business Suite parte al primo messaggio di chiunque e va togliata. Con le Domande frequenti l'informazione la chiede la persona, toccando un bottone.
+Motivo: la risposta automatica di Meta Business Suite parte al primo messaggio di chiunque e va tolta. Con le Domande frequenti l'informazione la chiede la persona, toccando un bottone.
 
 ## Domande frequenti (massimo 4, bottoni all'apertura della chat)
 
