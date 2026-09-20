@@ -36,6 +36,8 @@ Aggiornare questo file a ogni cambiamento.
 - Automazioni a parola chiave: NON esistono per questo account. Verificato da Alessandro il 17/09 su Meta Business Suite da desktop, non solo dall'app. Non riproporre di controllare.
 - Domande frequenti nell'app Instagram: fanno registrare solo le domande, non le risposte (verificato da Alessandro il 19/09). Non sono un'automazione. Non spacciarle come tale.
 - NIENTE strumenti di terzi per i DM (ManyChat e simili), ne' a pagamento ne' gratuiti: Alessandro non vuole servizi esterni che possano leggere le sue chat. Non riproporli mai.
+- 20/09 sera: valutata e SCARTATA la riattivazione dell'auto reply con un testo neutro (cortesia, senza costi ne' sedi, adatto a chiunque scriva). Alessandro ha scelto di tenerla spenta. Non riproporla.
+- Non esiste su Instagram una risposta automatica che parta solo a chi chiede informazioni, senza strumenti di terzi. Spiegato ad Alessandro il 20/09. Non cercarla piu'.
 - Quindi la gestione dei DM e' manuale, con due appoggi: 1) risposta salvata con scorciatoia "info", cosi risponde in un tocco (testo in sistema/risposta_automatica.md); 2) l'informazione va messa nei contenuti (post fissati, caroselli, didascalie) per ridurre le domande che arrivano in chat. Il carosello Prima visita serve anche a questo.
 
 ## Pubblicato
@@ -62,6 +64,7 @@ Aggiornare questo file a ogni cambiamento.
 - Nessun commento in attesa di risposta al 20/09 mattina (controllo Windsor, ultimi 7 giorni). Ultimo commento scritto: Claudio (studio_santelli) del 18/09, gia' risposto da Alessandro.
 - Controllo del 20/09 ore 09:00: mandato il messaggio "Oggi" con tre azioni. Esito: auto reply disattivata, storia annullata, bozza del post rifiutata nel formato testo.
 - 20/09: rese le sei slide del carosello Prima visita e mandate in chat. In attesa del riscontro.
+- 20/09 sera: Alessandro ha chiesto come risolvere la risposta automatica. Risposto che non esiste una automazione condizionale nativa e proposti due testi separati (auto reply neutra + risposta salvata "info"). Ha scelto la sola risposta salvata "info": auto reply resta spenta, questione chiusa.
 - Controllo del 20/09 ore 19:00: nessun commento nuovo (Windsor, ultimi 7 giorni: l'ultimo commento scritto resta quello di Claudio del 18/09, gia' risposto da Alessandro). Niente da pubblicare o da condividere stasera. Mandato un messaggio breve con due promemoria: risposta salvata "info" ancora mancante e ok o correzioni sulle sei slide del carosello Prima visita entro lunedi' 21/09.
 
 ## Da fare lato Alessandro
