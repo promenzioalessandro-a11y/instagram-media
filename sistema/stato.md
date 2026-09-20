@@ -62,6 +62,7 @@ Aggiornare questo file a ogni cambiamento.
 - Nessun commento in attesa di risposta al 20/09 mattina (controllo Windsor, ultimi 7 giorni). Ultimo commento scritto: Claudio (studio_santelli) del 18/09, gia' risposto da Alessandro.
 - Controllo del 20/09 ore 09:00: mandato il messaggio "Oggi" con tre azioni. Esito: auto reply disattivata, storia annullata, bozza del post rifiutata nel formato testo.
 - 20/09: rese le sei slide del carosello Prima visita e mandate in chat. In attesa del riscontro.
+- Controllo del 20/09 ore 19:00: nessun commento nuovo (Windsor, ultimi 7 giorni: l'ultimo commento scritto resta quello di Claudio del 18/09, gia' risposto da Alessandro). Niente da pubblicare o da condividere stasera. Mandato un messaggio breve con due promemoria: risposta salvata "info" ancora mancante e ok o correzioni sulle sei slide del carosello Prima visita entro lunedi' 21/09.
 
 ## Da fare lato Alessandro
 - Salvare la risposta con scorciatoia "info" (app Instagram, profilo, menu, Strumenti per la messaggistica, Risposte salvate, Nuova risposta salvata; oppure icona del fulmine dentro una chat). Testo in sistema/risposta_automatica.md. PRIORITA' ALTA: finche' non c'e', chi scrive nei DM non riceve nulla.
