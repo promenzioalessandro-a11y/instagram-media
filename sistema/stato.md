@@ -38,11 +38,11 @@ Aggiornare questo file a ogni cambiamento.
 
 ## Pubblicato
 - 15/09/2026 20:47 carosello plicometro (media 17875423812562328, https://www.instagram.com/p/DdUY11qjUYq/). Storia di rilancio condivisa il 16/09 14:45.
-- 17/09/2026 19:00 carosello Recensioni v12 (media 18411693961085733, https://www.instagram.com/p/DdZWRIOjph9/), programmato da Alessandro in Meta Business Suite. Slide: copertina, Flavia B., Saverio N., Barbara F., Giuseppe L., chiusura. Esclusa Silvia (dettagli personali). Storia di rilancio con adesivo link condivisa il 17/09 alle 19:33. Commenti: applauso del 17/09 gestito da Alessandro con un cuore; commento di Claudio (studio_santelli) del 18/09 17:08, risposta pubblicata da Alessandro il 18/09 alle 18:05. Nessun altro commento al 19/09.
+- 17/09/2026 19:00 carosello Recensioni v12 (media 18411693961085733, https://www.instagram.com/p/DdZWRIOjph9/), programmato da Alessandro in Meta Business Suite. Slide: copertina, Flavia B., Saverio N., Barbara F., Giuseppe L., chiusura. Esclusa Silvia (dettagli personali). Storia di rilancio con adesivo link condivisa il 17/09 alle 19:33. Commenti: applauso del 17/09 gestito da Alessandro con un cuore; commento di Claudio (studio_santelli) del 18/09 17:08, risposta pubblicata da Alessandro il 18/09 alle 18:05. Nessun altro commento al 20/09.
 
 ## In coda (bozze pronte, servono ok)
-- Carosello Prima visita: bozza v1 mandata ad Alessandro il 18/09 mattina e rimandata il 19/09 mattina (secondo sollecito). Testo completo in sistema/bozze/prima_visita_v1.md. In attesa del suo riscontro. Pubblicazione prevista martedi' 22/09 sera, poi lo fissa in alto (terzo post fissato). Base: fisso-2-come-funziona in sistema/piano.json, rivisto (composizione corporea solo in studio, prezzo senza numeri per sede, CTA INFO nei DM).
-- Storia del 19/09 (detrazione 19%, CTA INFO nei DM), orario suggerito 11:00 o 19:30. Testo in sistema/bozze/storia_19_09.md. In attesa dell'ok.
+- Carosello Prima visita: bozza v1 mandata ad Alessandro il 18/09 mattina, rimandata il 19/09 e il 20/09 mattina (terzo sollecito). Testo completo in sistema/bozze/prima_visita_v1.md. In attesa del suo riscontro. Pubblicazione prevista martedi' 22/09 sera, poi lo fissa in alto (terzo post fissato). Base: fisso-2-come-funziona in sistema/piano.json, rivisto (composizione corporea solo in studio, prezzo senza numeri per sede, CTA INFO nei DM).
+- Storia detrazione 19% (CTA INFO nei DM): proposta il 19/09 e non condivisa. Riproposta domenica 20/09, orario suggerito 11:00 (alternativa 19:30). Testo in sistema/bozze/storia_20_09.md (identico a storia_19_09.md). In attesa dell'ok.
 - Testi delle quattro domande e risposte in sistema/bozze/domande_frequenti.md: restano a magazzino, riutilizzabili come materiale per post, storie e risposte in DM. Non servono piu' come automazione.
 - Reel bilancia: in pausa, manca decisione sul formato e la voce.
 
@@ -57,11 +57,12 @@ Aggiornare questo file a ogni cambiamento.
 - 19/09: verificato che le Domande frequenti nell'app registrano solo le domande.
 
 ## Aperto lato gestione
-- Nessun commento in attesa di risposta al 19/09 mattina (controllo Windsor, ultimi 7 giorni).
-- In attesa dell'ok sulla storia proposta per il 19/09.
+- Nessun commento in attesa di risposta al 20/09 mattina (controllo Windsor, ultimi 7 giorni). Ultimo commento scritto: Claudio (studio_santelli) del 18/09, gia' risposto da Alessandro. Nessun commento nuovo il 19/09 e il 20/09.
+- In attesa dell'ok sulla storia detrazione 19%, riproposta per domenica 20/09.
+- Controllo del 20/09 ore 09:00: mandato messaggio "Oggi" con tre azioni (ok bozza Prima visita, storia delle 11:00, disattivare la risposta automatica). Bozza e testo della storia riallegati in chat.
 
 ## Da fare lato Alessandro
 - Disattivare la risposta automatica in Meta Business Suite (Posta in arrivo, Automazioni, Risposta immediata o Auto reply: disattivare l'interruttore). Priorita' alta.
 - Salvare la risposta salvata con scorciatoia "info" (app Instagram, Strumenti per la messaggistica, Risposte salvate; oppure icona del fulmine nella chat).
-- Riscontro sulla bozza del carosello Prima visita (sollecitato il 18 e il 19/09; serve entro lunedi' 21/09 per pubblicare martedi' 22/09 sera).
-- Ok o correzioni alla storia proposta per il 19/09.
+- Riscontro sulla bozza del carosello Prima visita (sollecitato il 18, il 19 e il 20/09; serve entro lunedi' 21/09 per pubblicare martedi' 22/09 sera). Se non arriva entro lunedi', la pubblicazione di martedi' salta.
+- Ok o correzioni alla storia detrazione 19%, riproposta per domenica 20/09 alle 11:00.
