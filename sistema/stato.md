@@ -4,6 +4,7 @@ Aggiornare questo file a ogni cambiamento.
 
 ## Regole fisse
 - Mai pubblicare nulla (post, reel, storie, risposte ai commenti) senza bozza mostrata ad Alessandro e suo ok esplicito.
+- BOZZE DEI POST: Alessandro non approva un post dal solo testo. Detto il 20/09: "non si puo' scegliere sulla base di un testo, devo vedere la bozza di post vero". Ogni proposta di post va resa in slide vere (script in sistema/v2/, motore sistema/render.py e sistema/v2/foto.py) e mandata come immagini. Il testo da solo non basta mai.
 - Invito all'azione: "Scrivimi INFO nei DM".
 - Prezzi: prima visita da 120 euro, varia per sede (Bonamed 130, nessun pacchetto); percorsi agevolati solo in alcune sedi. Mai un prezzo unico.
 - Cinque sedi in provincia di Verona, piu' la videochiamata.
@@ -30,7 +31,8 @@ Aggiornare questo file a ogni cambiamento.
 - Storie in evidenza: se ne occupa Alessandro da solo (18/09). Non riproporle come compito.
 
 ## DM: questione chiusa il 19/09, non riaprirla
-- La risposta automatica (Auto reply) di Meta Business Suite va disattivata: partiva al primo messaggio di chiunque, anche a chi non chiedeva informazioni. Decisione di Alessandro.
+- La risposta automatica (Auto reply) di Meta Business Suite e' stata disattivata il 20/09: partiva al primo messaggio di chiunque, anche a chi non chiedeva informazioni. Decisione di Alessandro.
+- ATTENZIONE: spenta l'auto reply, chi scrive non riceve piu' nessuna risposta immediata. Il problema resta aperto finche' non e' salvata la risposta con scorciatoia "info". Segnalato da Alessandro il 20/09: "fatto, ma il problema rimane irrisolto".
 - Automazioni a parola chiave: NON esistono per questo account. Verificato da Alessandro il 17/09 su Meta Business Suite da desktop, non solo dall'app. Non riproporre di controllare.
 - Domande frequenti nell'app Instagram: fanno registrare solo le domande, non le risposte (verificato da Alessandro il 19/09). Non sono un'automazione. Non spacciarle come tale.
 - NIENTE strumenti di terzi per i DM (ManyChat e simili), ne' a pagamento ne' gratuiti: Alessandro non vuole servizi esterni che possano leggere le sue chat. Non riproporli mai.
@@ -41,13 +43,12 @@ Aggiornare questo file a ogni cambiamento.
 - 17/09/2026 19:00 carosello Recensioni v12 (media 18411693961085733, https://www.instagram.com/p/DdZWRIOjph9/), programmato da Alessandro in Meta Business Suite. Slide: copertina, Flavia B., Saverio N., Barbara F., Giuseppe L., chiusura. Esclusa Silvia (dettagli personali). Storia di rilancio con adesivo link condivisa il 17/09 alle 19:33. Commenti: applauso del 17/09 gestito da Alessandro con un cuore; commento di Claudio (studio_santelli) del 18/09 17:08, risposta pubblicata da Alessandro il 18/09 alle 18:05. Nessun altro commento al 20/09.
 
 ## In coda (bozze pronte, servono ok)
-- Carosello Prima visita: bozza v1 mandata ad Alessandro il 18/09 mattina, rimandata il 19/09 e il 20/09 mattina (terzo sollecito). Testo completo in sistema/bozze/prima_visita_v1.md. In attesa del suo riscontro. Pubblicazione prevista martedi' 22/09 sera, poi lo fissa in alto (terzo post fissato). Base: fisso-2-come-funziona in sistema/piano.json, rivisto (composizione corporea solo in studio, prezzo senza numeri per sede, CTA INFO nei DM).
-- Storia detrazione 19% (CTA INFO nei DM): proposta il 19/09 e non condivisa. Riproposta domenica 20/09, orario suggerito 11:00 (alternativa 19:30). Testo in sistema/bozze/storia_20_09.md (identico a storia_19_09.md). In attesa dell'ok.
+- Carosello Prima visita v1: SEI SLIDE RESE E MANDATE AD ALESSANDRO IL 20/09 mattina. Script: sistema/v2/carosello_prima_visita.py (si lancia dalla radice del repo, scrive in out/prima-visita/). Copertina: ritratto-camice-grigio con gancio "Cosa succede davvero alla prima visita". Slide 2-4: i tre passi. Slide 5: cosa portare. Slide 6: chiusura scura su visita-studio, "Prima visita da 120 euro", detraibile al 19%, CTA INFO nei DM. Testo e didascalia in sistema/bozze/prima_visita_v1.md. In attesa dell'ok o delle correzioni. Pubblicazione prevista martedi' 22/09 sera, poi lo fissa in alto (terzo post fissato).
+- Storia detrazione 19%: ANNULLATA. Proposta il 19/09, riproposta il 20/09, Alessandro ha risposto "fa niente" il 20/09. Il testo resta in sistema/bozze/storia_20_09.md come materiale di riserva. Non riproporla senza un motivo nuovo.
 - Testi delle quattro domande e risposte in sistema/bozze/domande_frequenti.md: restano a magazzino, riutilizzabili come materiale per post, storie e risposte in DM. Non servono piu' come automazione.
 - Reel bilancia: in pausa, manca decisione sul formato e la voce.
 
 ## Fatto lato Alessandro
-- 17/09: risposta automatica (Auto reply) attiva con testo nuovo (sistema/risposta_automatica.md). SUPERATA: il 19/09 ha deciso di disattivarla.
 - 17/09: bio attuale confermata.
 - 17/09: storia di rilancio del carosello Recensioni.
 - 17/09: verificato da desktop che le parole chiave non esistono in Meta Business Suite per questo account.
@@ -55,14 +56,13 @@ Aggiornare questo file a ogni cambiamento.
 - 18/09: commento sul carosello Recensioni gestito con un cuore.
 - 18/09: risposta al commento di Claudio (studio_santelli) scritta da Alessandro.
 - 19/09: verificato che le Domande frequenti nell'app registrano solo le domande.
+- 20/09: risposta automatica (Auto reply) DISATTIVATA in Meta Business Suite.
 
 ## Aperto lato gestione
-- Nessun commento in attesa di risposta al 20/09 mattina (controllo Windsor, ultimi 7 giorni). Ultimo commento scritto: Claudio (studio_santelli) del 18/09, gia' risposto da Alessandro. Nessun commento nuovo il 19/09 e il 20/09.
-- In attesa dell'ok sulla storia detrazione 19%, riproposta per domenica 20/09.
-- Controllo del 20/09 ore 09:00: mandato messaggio "Oggi" con tre azioni (ok bozza Prima visita, storia delle 11:00, disattivare la risposta automatica). Bozza e testo della storia riallegati in chat.
+- Nessun commento in attesa di risposta al 20/09 mattina (controllo Windsor, ultimi 7 giorni). Ultimo commento scritto: Claudio (studio_santelli) del 18/09, gia' risposto da Alessandro.
+- Controllo del 20/09 ore 09:00: mandato il messaggio "Oggi" con tre azioni. Esito: auto reply disattivata, storia annullata, bozza del post rifiutata nel formato testo.
+- 20/09: rese le sei slide del carosello Prima visita e mandate in chat. In attesa del riscontro.
 
 ## Da fare lato Alessandro
-- Disattivare la risposta automatica in Meta Business Suite (Posta in arrivo, Automazioni, Risposta immediata o Auto reply: disattivare l'interruttore). Priorita' alta.
-- Salvare la risposta salvata con scorciatoia "info" (app Instagram, Strumenti per la messaggistica, Risposte salvate; oppure icona del fulmine nella chat).
-- Riscontro sulla bozza del carosello Prima visita (sollecitato il 18, il 19 e il 20/09; serve entro lunedi' 21/09 per pubblicare martedi' 22/09 sera). Se non arriva entro lunedi', la pubblicazione di martedi' salta.
-- Ok o correzioni alla storia detrazione 19%, riproposta per domenica 20/09 alle 11:00.
+- Salvare la risposta con scorciatoia "info" (app Instagram, profilo, menu, Strumenti per la messaggistica, Risposte salvate, Nuova risposta salvata; oppure icona del fulmine dentro una chat). Testo in sistema/risposta_automatica.md. PRIORITA' ALTA: finche' non c'e', chi scrive nei DM non riceve nulla.
+- Ok o correzioni sulle sei slide del carosello Prima visita (serve entro lunedi' 21/09 per pubblicare martedi' 22/09 sera).
