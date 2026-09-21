@@ -1,6 +1,7 @@
 # Bozza carosello "Prima visita" (v1)
 
-Stato: in attesa dell'ok di Alessandro (mandata il 18/09, rimandata il 19/09).
+Stato: in attesa dell'ok di Alessandro (testo mandato il 18/09 e 19/09, slide il 20/09, anteprima PDF definitiva il 21/09).
+Immagini: media/prima-visita/v1/01.jpg ... 06.jpg. Proposta: martedi 22/09 ore 20:45.
 Pubblicazione prevista: martedi 22/09 sera. Poi va fissata in alto come terzo post fissato.
 
 ## Slide 1 - Copertina (foto di Alessandro, primo piano)
@@ -34,12 +35,15 @@ Scrivimi INFO nei DM.
 ## Didascalia
 Dalla prima visita al monitoraggio, in tre passaggi.
 
-Alla prima visita non ti misuro e basta: ricostruiamo la tua giornata, definiamo l'obiettivo e ti spiego il perche di ogni scelta del piano.
+Alla prima visita non ti misuro e basta: ricostruiamo la tua giornata, definiamo l'obiettivo e ti spiego il perché di ogni scelta del piano.
 
 Le prestazioni del biologo nutrizionista sono spese sanitarie: detraibili al 19% con pagamento tracciabile.
 
 Prima visita da 120 euro, il costo varia in base alla sede. In studio a Verona e provincia, oppure in videochiamata.
 
-Scrivimi INFO nei DM per sedi e disponibilita.
+Scrivimi INFO nei DM per sedi e disponibilità.
 
 #biologonutrizionista #nutrizionistaverona #primavisita #nutrizionista
+
+## Storia di rilancio (la condivide Alessandro dall'app, tra 21:00 e 21:30)
+Cosa succede alla prima visita? Te lo racconto passo per passo, con prezzo e cosa portare. Tocca il post.
