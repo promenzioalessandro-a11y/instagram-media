@@ -29,6 +29,7 @@ Aggiornare questo file a ogni cambiamento.
 - Alessandro risponde anche da solo ai commenti scritti (18/09, commento di Claudio). Prima di proporre una bozza, controllare su Windsor se esiste gia' una risposta di dott_promenzio con comment_parent_id su quel commento.
 - Bozze: Alessandro le vuole in anticipo, non a ridosso della pubblicazione (detto il 18/09). Le bozze mandate in chat vanno salvate anche in sistema/bozze/, cosi restano disponibili ai controlli successivi.
 - Storie in evidenza: se ne occupa Alessandro da solo (18/09). Non riproporle come compito.
+- Windsor: le metriche dei post con date_preset last_1y tornano vuote; usare date_from/date_to (es. dal 2026-05-01). Notato il 21/09.
 
 ## DM: questione chiusa il 19/09, non riaprirla
 - La risposta automatica (Auto reply) di Meta Business Suite e' stata disattivata il 20/09: partiva al primo messaggio di chiunque, anche a chi non chiedeva informazioni. Decisione di Alessandro.
@@ -45,7 +46,8 @@ Aggiornare questo file a ogni cambiamento.
 - 17/09/2026 19:00 carosello Recensioni v12 (media 18411693961085733, https://www.instagram.com/p/DdZWRIOjph9/), programmato da Alessandro in Meta Business Suite. Slide: copertina, Flavia B., Saverio N., Barbara F., Giuseppe L., chiusura. Esclusa Silvia (dettagli personali). Storia di rilancio con adesivo link condivisa il 17/09 alle 19:33. Commenti: applauso del 17/09 gestito da Alessandro con un cuore; commento di Claudio (studio_santelli) del 18/09 17:08, risposta pubblicata da Alessandro il 18/09 alle 18:05. Nessun altro commento al 20/09.
 
 ## In coda (bozze pronte, servono ok)
-- Carosello Prima visita v1: SEI SLIDE RESE E MANDATE AD ALESSANDRO IL 20/09 mattina. Script: sistema/v2/carosello_prima_visita.py (si lancia dalla radice del repo, scrive in out/prima-visita/). Copertina: ritratto-camice-grigio con gancio "Cosa succede davvero alla prima visita". Slide 2-4: i tre passi. Slide 5: cosa portare. Slide 6: chiusura scura su visita-studio, "Prima visita da 120 euro", detraibile al 19%, CTA INFO nei DM. Testo e didascalia in sistema/bozze/prima_visita_v1.md. In attesa dell'ok o delle correzioni. Pubblicazione prevista martedi' 22/09 sera, poi lo fissa in alto (terzo post fissato).
+- Carosello Prima visita v1: rese di nuovo il 21/09 e caricate in media/prima-visita/v1/01-06.jpg (indirizzi raw verificati image/jpeg). Anteprima PDF (didascalia esatta, giorno e ora, sei immagini) mandata il 21/09 mattina. Didascalia in sistema/bozze/prima_visita_v1.md. Proposta: martedi 22/09 ore 20:45, poi fissarlo in alto (terzo post fissato). In attesa dell'ok.
+- Carosello Gonfiore v1 (salute intestinale, nuovo): sette slide in media/gonfiore/v1/01-07.jpg, script sistema/v2/carosello_gonfiore.py. Copertina ritratto-studio-scrivania con gancio "Ti gonfi dopo mangiato? Non sempre e' colpa del glutine". Quattro cause (fretta, bollicine e polioli, fibre aumentate di colpo, intestino pigro), poi "non eliminare il glutine da solo" con i segnali per andare dal medico, chiusura con CTA INFO. Testi in sistema/bozze/gonfiore_v1.md. Anteprima PDF mandata il 21/09. Proposta: giovedi 24/09 ore 19:00 (orario Meta). In attesa dell'ok.
 - Storia detrazione 19%: ANNULLATA. Proposta il 19/09, riproposta il 20/09, Alessandro ha risposto "fa niente" il 20/09. Il testo resta in sistema/bozze/storia_20_09.md come materiale di riserva. Non riproporla senza un motivo nuovo.
 - Testi delle quattro domande e risposte in sistema/bozze/domande_frequenti.md: restano a magazzino, riutilizzabili come materiale per post, storie e risposte in DM. Non servono piu' come automazione.
 - Reel bilancia: in pausa, manca decisione sul formato e la voce.
@@ -66,7 +68,8 @@ Aggiornare questo file a ogni cambiamento.
 - 20/09: rese le sei slide del carosello Prima visita e mandate in chat. In attesa del riscontro.
 - 20/09 sera: Alessandro ha chiesto come risolvere la risposta automatica. Risposto che non esiste una automazione condizionale nativa e proposti due testi separati (auto reply neutra + risposta salvata "info"). Ha scelto la sola risposta salvata "info": auto reply resta spenta, questione chiusa.
 - Controllo del 20/09 ore 19:00: nessun commento nuovo (Windsor, ultimi 7 giorni: l'ultimo commento scritto resta quello di Claudio del 18/09, gia' risposto da Alessandro). Niente da pubblicare o da condividere stasera. Mandato un messaggio breve con due promemoria: risposta salvata "info" ancora mancante e ok o correzioni sulle sei slide del carosello Prima visita entro lunedi' 21/09.
+- Controllo del 21/09 ore 08:00: nessun post nuovo dopo il 17/09, nessun commento nuovo, follower 489. Plicometro 294 persone raggiunte, 5 visite al profilo; Recensioni 247 raggiunte, 15 visite, 2 nuovi follower (copertina con volto e prova sociale porta piu' visite). Mandate le due anteprime PDF e il piano: martedi Prima visita 20:45, giovedi Gonfiore 19:00. Si programma solo dopo l'ok.
 
 ## Da fare lato Alessandro
 - Salvare la risposta con scorciatoia "info" (app Instagram, profilo, menu, Strumenti per la messaggistica, Risposte salvate, Nuova risposta salvata; oppure icona del fulmine dentro una chat). Testo in sistema/risposta_automatica.md. PRIORITA' ALTA: finche' non c'e', chi scrive nei DM non riceve nulla.
-- Ok o correzioni sulle sei slide del carosello Prima visita (serve entro lunedi' 21/09 per pubblicare martedi' 22/09 sera).
+- Ok o correzioni sulle anteprime Prima visita (martedi 22/09 20:45) e Gonfiore (giovedi 24/09 19:00), mandate il 21/09.
