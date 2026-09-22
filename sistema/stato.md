@@ -76,5 +76,13 @@ Aggiornare questo file a ogni cambiamento.
 - Controllo del 21/09 ore 19:00: nessun commento nuovo, nessun post nuovo. Niente da fare stasera, nessun messaggio mandato. Restano in attesa: ok su Prima visita (martedi 22/09 20:45), risposta salvata "info", ok su Gonfiore.
 - Controllo del 22/09 ore 09:00: nessun commento nuovo, nessun post nuovo dopo il 17/09. Mandato il messaggio "Oggi" con le slide dei due caroselli (immagini prima_visita_stasera e gonfiore_giovedi) e tre azioni: 1) ok su Prima visita entro le 18:00 per uscire stasera alle 20:45, con testo della storia 21:00-21:30; senza ok si sposta e si propone un'altra data; 2) risposta salvata "info" con testo completo, piu' la prova dei bottoni domande frequenti (lei elimina la conversazione e la riapre dal profilo); 3) ok su Gonfiore entro mercoledi 23/09. In attesa delle risposte.
 
+## Nuova linea contenuti (22/09, Alessandro chiede un mix: rappresentare la sua persona e far crescere i follower, con equilibrio; la scelta la lascia al manager)
+- Post: uno a settimana, con foto VERE scattate da Alessandro (studio, piatti, spesa, strumenti, lui al lavoro). Niente grafiche a modello, niente testo sull'immagine. Didascalia breve, con un'opinione chiara, tono da persona e non da volantino.
+- Ogni due settimane circa: post "domanda vera" (domanda reale di un paziente, anonima, risposta come a voce).
+- Storie: tre volte a settimana, sondaggi e quiz semplici, testi preparati da noi, pubblicati da Alessandro. Servono a coinvolgere e a far girare il profilo.
+- Crescita follower: proporre al momento giusto un post in collaborazione (funzione Collab) con una sede, palestra o collega, per arrivare al loro pubblico.
+- Reel con sola voce: in pausa.
+- Prima azione: storia sondaggio sul gonfiore (testo in chat 22/09), e richiesta ad Alessandro di 5 o 6 foto vere dal telefono.
+
 ## Da fare lato Alessandro
-- Scegliere la nuova direzione dei contenuti (22/09). Nient'altro in sospeso.
+- Ok sulla storia sondaggio del 22/09 e invio di 5 o 6 foto vere scattate col telefono.
