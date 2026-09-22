@@ -47,6 +47,7 @@ Aggiornare questo file a ogni cambiamento.
 - 17/09/2026 19:00 carosello Recensioni v12 (media 18411693961085733, https://www.instagram.com/p/DdZWRIOjph9/), programmato da Alessandro in Meta Business Suite. Slide: copertina, Flavia B., Saverio N., Barbara F., Giuseppe L., chiusura. Esclusa Silvia (dettagli personali). Storia di rilancio con adesivo link condivisa il 17/09 alle 19:33. Commenti: applauso del 17/09 gestito da Alessandro con un cuore; commento di Claudio (studio_santelli) del 18/09 17:08, risposta pubblicata da Alessandro il 18/09 alle 18:05. Nessun altro commento al 20/09.
 
 ## In coda (bozze pronte, servono ok)
+- 22/09: Alessandro ha BOCCIATO Prima visita e Gonfiore: "sempre le stesse foto, sempre lo stesso format, rompe le balle e risulta cringe, perdo follower". Stasera non esce nulla. Il formato carosello di testo con il template attuale (render.py e v2) e le stesse foto NON va piu' riproposto. Le due bozze restano in archivio, non riproporle cosi. Si ridecide la linea dei contenuti con Alessandro prima di preparare altro.
 - Carosello Prima visita v1: rese di nuovo il 21/09 e caricate in media/prima-visita/v1/01-06.jpg (indirizzi raw verificati image/jpeg). Anteprima PDF (didascalia esatta, giorno e ora, sei immagini) mandata il 21/09 mattina. Didascalia in sistema/bozze/prima_visita_v1.md. Proposta: martedi 22/09 ore 20:45, poi fissarlo in alto (terzo post fissato). In attesa dell'ok.
 - Carosello Gonfiore v1 (salute intestinale, nuovo): sette slide in media/gonfiore/v1/01-07.jpg, script sistema/v2/carosello_gonfiore.py. Copertina ritratto-studio-scrivania con gancio "Ti gonfi dopo mangiato? Non sempre e' colpa del glutine". Quattro cause (fretta, bollicine e polioli, fibre aumentate di colpo, intestino pigro), poi "non eliminare il glutine da solo" con i segnali per andare dal medico, chiusura con CTA INFO. Testi in sistema/bozze/gonfiore_v1.md. Anteprima PDF mandata il 21/09. Proposta: giovedi 24/09 ore 19:00 (orario Meta). In attesa dell'ok.
 - Storia detrazione 19%: ANNULLATA. Proposta il 19/09, riproposta il 20/09, Alessandro ha risposto "fa niente" il 20/09. Il testo resta in sistema/bozze/storia_20_09.md come materiale di riserva. Non riproporla senza un motivo nuovo.
@@ -54,6 +55,7 @@ Aggiornare questo file a ogni cambiamento.
 - Reel bilancia: in pausa, manca decisione sul formato e la voce.
 
 ## Fatto lato Alessandro
+- 22/09: risposta salvata "info" gia' salvata (fatta insieme in una sessione precedente). Compito CHIUSO: non riproporla mai piu'.
 - 17/09: bio attuale confermata.
 - 17/09: storia di rilancio del carosello Recensioni.
 - 17/09: verificato da desktop che le parole chiave non esistono in Meta Business Suite per questo account.
@@ -75,5 +77,4 @@ Aggiornare questo file a ogni cambiamento.
 - Controllo del 22/09 ore 09:00: nessun commento nuovo, nessun post nuovo dopo il 17/09. Mandato il messaggio "Oggi" con le slide dei due caroselli (immagini prima_visita_stasera e gonfiore_giovedi) e tre azioni: 1) ok su Prima visita entro le 18:00 per uscire stasera alle 20:45, con testo della storia 21:00-21:30; senza ok si sposta e si propone un'altra data; 2) risposta salvata "info" con testo completo, piu' la prova dei bottoni domande frequenti (lei elimina la conversazione e la riapre dal profilo); 3) ok su Gonfiore entro mercoledi 23/09. In attesa delle risposte.
 
 ## Da fare lato Alessandro
-- Salvare la risposta con scorciatoia "info" (app Instagram, profilo, menu, Strumenti per la messaggistica, Risposte salvate, Nuova risposta salvata; oppure icona del fulmine dentro una chat). Testo in sistema/risposta_automatica.md. PRIORITA' ALTA: finche' non c'e', chi scrive nei DM non riceve nulla.
-- Ok o correzioni sulle anteprime Prima visita (martedi 22/09 20:45) e Gonfiore (giovedi 24/09 19:00), mandate il 21/09.
+- Scegliere la nuova direzione dei contenuti (22/09). Nient'altro in sospeso.
