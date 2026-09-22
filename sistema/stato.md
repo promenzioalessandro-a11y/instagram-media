@@ -39,6 +39,7 @@ Aggiornare questo file a ogni cambiamento.
 - NIENTE strumenti di terzi per i DM (ManyChat e simili), ne' a pagamento ne' gratuiti: Alessandro non vuole servizi esterni che possano leggere le sue chat. Non riproporli mai.
 - 20/09 sera: valutata e SCARTATA la riattivazione dell'auto reply con un testo neutro (cortesia, senza costi ne' sedi, adatto a chiunque scriva). Alessandro ha scelto di tenerla spenta. Non riproporla.
 - Non esiste su Instagram una risposta automatica che parta solo a chi chiede informazioni, senza strumenti di terzi. Spiegato ad Alessandro il 20/09. Non cercarla piu'.
+- 22/09: Alessandro ha salvato le domande frequenti (bottoni) nell'app. Prova con la chat della sua ragazza: i bottoni non compaiono. Motivo probabile: Instagram li mostra solo in una conversazione nuova, prima del primo messaggio, non in una chat gia' avviata. Prova giusta: account che non ha mai scritto, oppure lei elimina la conversazione dal suo lato e la riapre dal profilo con Messaggio. Esito da verificare.
 - Quindi la gestione dei DM e' manuale, con due appoggi: 1) risposta salvata con scorciatoia "info", cosi risponde in un tocco (testo in sistema/risposta_automatica.md); 2) l'informazione va messa nei contenuti (post fissati, caroselli, didascalie) per ridurre le domande che arrivano in chat. Il carosello Prima visita serve anche a questo.
 
 ## Pubblicato
