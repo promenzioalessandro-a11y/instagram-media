@@ -67,13 +67,14 @@ Aggiornare questo file a ogni cambiamento.
 - 20/09: risposta automatica (Auto reply) DISATTIVATA in Meta Business Suite.
 
 ## Aperto lato gestione
-- Nessun commento in attesa di risposta al 22/09 sera (controllo Windsor). Ultimo commento scritto: Claudio (studio_santelli) del 18/09, gia' risposto da Alessandro.
+- Nessun commento in attesa di risposta al 23/09 mattina (controllo Windsor). Ultimo commento scritto: Claudio (studio_santelli) del 18/09, gia' risposto da Alessandro.
 - Controllo del 20/09 ore 09:00: mandato il messaggio "Oggi" con tre azioni. Esito: auto reply disattivata, storia annullata, bozza del post rifiutata nel formato testo.
 - Controllo del 20/09 ore 19:00: nessun commento nuovo. Mandato un messaggio breve con due promemoria.
 - Controllo del 21/09 ore 09:00: mandato il messaggio "Oggi" con le slide dei due caroselli e tre azioni.
 - Controllo del 21/09 ore 19:00: nessun commento nuovo, nessun post nuovo, nessun messaggio mandato.
 - Controllo del 22/09 ore 09:00: mandato il messaggio "Oggi" con le slide dei due caroselli e tre azioni. Esito: entrambe le bozze bocciate, nuova linea contenuti decisa.
 - Controllo del 22/09 ore 19:00: nessun commento nuovo (l'ultimo scritto resta quello di Claudio del 18/09, gia' risposto), nessun post nuovo dopo il 17/09, niente pubblicato stasera. Testo della storia sondaggio gonfiore salvato in sistema/bozze/storia_sondaggio_gonfiore.md e rimandato ad Alessandro con la lista precisa delle foto da scattare. In attesa di ok sulla storia e delle 5 o 6 foto.
+- Controllo del 23/09 ore 09:00: nessun commento nuovo, nessun post nuovo dopo il 17/09, nessuna storia nuova dopo quella del 22/09 pomeriggio (la storia sondaggio non risulta pubblicata). Mandato il messaggio "Oggi" con tre azioni: 1) le 5 o 6 foto vere, che bloccano il post settimanale di giovedi 24/09 alle 19:00, 2) ok sulla storia sondaggio gonfiore con il testo esatto delle due schermate e l'orario (verso le 13), 3) richiesta di una domanda vera di un paziente per il post "domanda vera".
 
 ## Nuova linea contenuti (22/09, Alessandro chiede un mix: rappresentare la sua persona e far crescere i follower, con equilibrio; la scelta la lascia al manager)
 - Post: uno a settimana, con foto VERE scattate da Alessandro (studio, piatti, spesa, strumenti, lui al lavoro). Niente grafiche a modello, niente testo sull'immagine. Didascalia breve, con un'opinione chiara, tono da persona e non da volantino.
@@ -85,4 +86,5 @@ Aggiornare questo file a ogni cambiamento.
 
 ## Da fare lato Alessandro
 - Ok sulla storia sondaggio del 22/09 (testo in sistema/bozze/storia_sondaggio_gonfiore.md).
-- Invio di 5 o 6 foto vere scattate col telefono. Lista mandata il 22/09 sera: 1) lui in studio mentre misura o scrive, 2) la scrivania con plicometro e metro, 3) un piatto vero di casa sua, 4) la spesa al banco della frutta o verdura, 5) lui in camice all'ingresso dello studio, 6) un dettaglio (bilancia, bloc notes, bicchiere d'acqua).
+- Invio di 5 o 6 foto vere scattate col telefono. Lista rimandata il 23/09 mattina: 1) lui in studio mentre misura o scrive, 2) la scrivania con plicometro e metro, 3) un piatto vero di casa sua, 4) la spesa al banco della frutta o verdura, 5) lui in camice all'ingresso dello studio, 6) un dettaglio (bilancia, bloc notes, bicchiere d'acqua).
+- Invio di una domanda vera fatta da un paziente questa settimana (anonima), per il post "domanda vera". Chiesta il 23/09.
