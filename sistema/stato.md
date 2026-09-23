@@ -19,7 +19,7 @@ Aggiornare questo file a ogni cambiamento.
 - Alessandro non gira video; il formato reel con solo voce e' in discussione (teme poco coinvolgimento senza il volto).
 - Recensioni e testimonianze: si pubblicano (sono gia' pubbliche su Google); Alessandro non vuole la verifica con l'Ordine.
 - Post da fissare: niente numeri che invecchiano (conteggio recensioni, media). Le recensioni Google non sono tutte a 5 stelle: mai scriverlo. Da segnalare: la home del sito scrive 24 recensioni a 5 stelle, da correggere se non e' esatto.
-- Orario migliore secondo Meta (settimana 14/09): giovedi 19:00. Il 23/09 Business Suite consiglia giovedi 18:00, e Alessandro ha scelto quello per la storia del sito.
+- Orario migliore secondo Meta (settimana 14/09): giovedi 19:00. Il 23/09 Business Suite consiglia giovedi 18:00. Alessandro il giovedi ha visite fino alle 18:30, quindi in pratica si pubblica verso le 18:35.
 - Link scheda Google (verificato 17/09, anche in incognito): https://share.google/gAXudKOQoKiRNYmxz . Nome scheda: "Dott. Alessandro Promenzio Biologo Nutrizionista - Verona".
 - Post fissati: 1) "Chi sono" del 19/05 (resta), 2) Recensioni del 17/09 (fissato il 18/09), 3) da decidere a ridosso.
 - I dati delle storie su Windsor arrivano con qualche minuto di ritardo: un controllo subito dopo la pubblicazione puo' non vederle.
@@ -44,7 +44,7 @@ Aggiornare questo file a ogni cambiamento.
 - 17/09/2026 19:00 carosello Recensioni v12 (media 18411693961085733, https://www.instagram.com/p/DdZWRIOjph9/). Storia di rilancio con adesivo link il 17/09 alle 19:33. Commenti: applauso del 17/09 gestito con un cuore; commento di Claudio (studio_santelli) del 18/09, risposta di Alessandro il 18/09 alle 18:05. Nessun altro commento al 23/09.
 
 ## In coda (bozze pronte, servono ok)
-- STORIA SITO, giovedi 24/09 ore 18:00, pubblicazione A MANO. Bozza in sistema/bozze/storia_sito.md. Tre immagini 1080x1920 gia' preparate e mandate in chat il 23/09 sera: storia-sito-1.jpg (sondaggio), storia-sito-2.jpg (link, quiz), storia-sito-3.jpg (link, tag delle sedi). Strategia: il link non viene presentato come il sito ma come il quiz di sei domande; il sondaggio sulla prima schermata serve a far toccare lo schermo, il link non va mai sulla stessa schermata del sondaggio. Promemoria automatico impostato per il 24/09 alle 17:45. In attesa di ok.
+- STORIA SITO, giovedi 24/09 verso le 18:35, pubblicazione A MANO. Bozza in sistema/bozze/storia_sito.md. Tre immagini 1080x1920 gia' preparate e mandate in chat il 23/09 sera: storia-sito-1.jpg (sondaggio), storia-sito-2.jpg (link, quiz), storia-sito-3.jpg (link, tag delle sedi). Strategia: il link non viene presentato come il sito ma come il quiz di sei domande; il sondaggio sulla prima schermata serve a far toccare lo schermo, il link non va mai sulla stessa schermata del sondaggio. Promemoria automatico impostato per il 24/09 alle 18:30. In attesa di ok.
 - Storia sondaggio gonfiore v2: concetto approvato il 23/09, due varianti in sistema/bozze/storia_sondaggio_gonfiore.md, proposta la variante B. Spostata a venerdi 25/09 ora di pranzo, con l'ultima schermata che rimanda al quiz del sito. In attesa di ok.
 - Carosello Prima visita v1 e Carosello Gonfiore v1: ARCHIVIATI il 22/09, bocciati da Alessandro ("sempre le stesse foto, sempre lo stesso format, rompe le balle e risulta cringe, perdo follower"). Il formato carosello di testo con il template attuale NON va piu' riproposto. I contenuti del Gonfiore (fretta, bollicine e polioli, fibre aumentate di colpo, intestino pigro, segnali per andare dal medico) restano buoni come materiale per storie.
 - Storia detrazione 19%: ANNULLATA il 20/09. Testo in sistema/bozze/storia_20_09.md come riserva. Non riproporla senza un motivo nuovo.
@@ -73,7 +73,7 @@ Aggiornare questo file a ogni cambiamento.
 - Controllo del 22/09 ore 19:00: nessun commento nuovo, niente pubblicato. Testo della storia sondaggio salvato in sistema/bozze/.
 - Controllo del 23/09 ore 09:00: mandato il messaggio "Oggi" con tre azioni. Esito: Alessandro non ha domande di pazienti, non ha foto e non puo' farle, la storia va bene come concetto ma il testo va rivisto.
 - Controllo del 23/09 ore 19:00: nessun commento nuovo, nessun post nuovo, nessuna storia attiva. Mandato un messaggio con due richieste.
-- 23/09 sera, conversazione con Alessandro: ha deciso di usare lo slot di giovedi per una storia che porta al nuovo sito. Business Suite gli consiglia le 18:00 e ha scelto quello. Voleva programmarla in pubblicazione automatica: spiegato che cosi si perdono sondaggio e adesivo link, quindi si pubblica a mano con promemoria alle 17:45. Preparate e mandate le tre immagini gia' pronte, nessuna foto richiesta. In attesa dell'ok finale sulla sequenza.
+- 23/09 sera, conversazione con Alessandro: ha deciso di usare lo slot di giovedi per una storia che porta al nuovo sito. Voleva programmarla in pubblicazione automatica: spiegato che cosi si perdono sondaggio e adesivo link, quindi si pubblica a mano. Il giovedi ha visite fino alle 18:30, quindi orario fissato verso le 18:35 e promemoria alle 18:30. Preparate e mandate le tre immagini gia' pronte, nessuna foto richiesta. In attesa dell'ok finale sulla sequenza.
 
 ## Nuova linea contenuti (22/09, Alessandro chiede un mix: rappresentare la sua persona e far crescere i follower; la scelta la lascia al manager)
 - Post: uno a settimana, con foto VERE scattate da Alessandro. Niente grafiche a modello, niente testo sull'immagine. Didascalia breve, con un'opinione chiara, tono da persona e non da volantino.
@@ -84,9 +84,10 @@ Aggiornare questo file a ogni cambiamento.
 - BLOCCO del 23/09: Alessandro non puo' scattare foto nuove e non ha domande di pazienti da usare. Il post settimanale con foto vere e il post "domanda vera" restano fermi finche' non arriva materiale. Non insistere chiedendo foto da scattare.
 - Ripiego deciso il 23/09: a) chiedere solo di guardare nel rullino foto gia' esistenti; b) per il post "domanda vera" usare le quattro domande gia' in sistema/bozze/domande_frequenti.md; c) finche' manca un'immagine, il post settimanale salta e si tiene il profilo vivo con le storie.
 - Il sito e' ora la destinazione principale delle storie: il quiz di orientamento e' il gancio piu' forte per i clic.
+- Nota di agenda: il giovedi Alessandro e' in visita fino alle 18:30. Tenerne conto quando si fissa un orario.
 
 ## Da fare lato Alessandro
-- Giovedi 24/09 alle 18:00: pubblicare a mano la storia del sito, tre schermate, con sondaggio sulla prima e adesivo link sulla seconda e sulla terza. Istruzioni esatte in sistema/bozze/storia_sito.md.
+- Giovedi 24/09 verso le 18:35, appena finita la visita: pubblicare a mano la storia del sito, tre schermate, con sondaggio sulla prima e adesivo link sulla seconda e sulla terza. Istruzioni esatte in sistema/bozze/storia_sito.md.
 - Dopo la storia: rispondere in DM, uno per uno, a chi vota nel sondaggio, con una riga e il link.
 - Ok su una delle due varianti della storia sondaggio gonfiore (proposta: variante B), per venerdi 25/09.
 - Controllare sul sito la frase sulle 24 recensioni a 5 stelle.
