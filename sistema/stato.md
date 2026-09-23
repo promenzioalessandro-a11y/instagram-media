@@ -50,7 +50,7 @@ Aggiornare questo file a ogni cambiamento.
 - 22/09: Alessandro ha BOCCIATO Prima visita e Gonfiore: "sempre le stesse foto, sempre lo stesso format, rompe le balle e risulta cringe, perdo follower". Stasera non esce nulla. Il formato carosello di testo con il template attuale (render.py e v2) e le stesse foto NON va piu' riproposto. Le due bozze restano in archivio, non riproporle cosi. Si ridecide la linea dei contenuti con Alessandro prima di preparare altro.
 - Carosello Prima visita v1: rese di nuovo il 21/09 e caricate in media/prima-visita/v1/01-06.jpg (indirizzi raw verificati image/jpeg). Anteprima PDF (didascalia esatta, giorno e ora, sei immagini) mandata il 21/09 mattina. Didascalia in sistema/bozze/prima_visita_v1.md. ARCHIVIATA il 22/09.
 - Carosello Gonfiore v1 (salute intestinale, nuovo): sette slide in media/gonfiore/v1/01-07.jpg, script sistema/v2/carosello_gonfiore.py. Testi in sistema/bozze/gonfiore_v1.md. ARCHIVIATA il 22/09. I contenuti (fretta, bollicine e polioli, fibre aumentate di colpo, intestino pigro, segnali per andare dal medico) restano buoni come materiale per storie e post con foto vere.
-- Storia sondaggio gonfiore: testo pronto in sistema/bozze/storia_sondaggio_gonfiore.md (due schermate, sondaggio Spesso / Quasi mai piu' la risposta). Mandata ad Alessandro il 22/09. In attesa di ok.
+- Storia sondaggio gonfiore: CONCETTO APPROVATO da Alessandro il 23/09, testo v1 bocciato ("rivisto il testo"). Riscritta in due varianti in sistema/bozze/storia_sondaggio_gonfiore.md (v2): variante B con Alessandro dentro il testo (proposta del manager), variante A impersonale. Mandate in chat il 23/09. In attesa di ok su una delle due.
 - Storia detrazione 19%: ANNULLATA. Proposta il 19/09, riproposta il 20/09, Alessandro ha risposto "fa niente" il 20/09. Il testo resta in sistema/bozze/storia_20_09.md come materiale di riserva. Non riproporla senza un motivo nuovo.
 - Testi delle quattro domande e risposte in sistema/bozze/domande_frequenti.md: restano a magazzino, riutilizzabili come materiale per post, storie e risposte in DM. Non servono piu' come automazione.
 - Reel bilancia: in pausa, manca decisione sul formato e la voce.
@@ -75,6 +75,7 @@ Aggiornare questo file a ogni cambiamento.
 - Controllo del 22/09 ore 09:00: mandato il messaggio "Oggi" con le slide dei due caroselli e tre azioni. Esito: entrambe le bozze bocciate, nuova linea contenuti decisa.
 - Controllo del 22/09 ore 19:00: nessun commento nuovo (l'ultimo scritto resta quello di Claudio del 18/09, gia' risposto), nessun post nuovo dopo il 17/09, niente pubblicato stasera. Testo della storia sondaggio gonfiore salvato in sistema/bozze/storia_sondaggio_gonfiore.md e rimandato ad Alessandro con la lista precisa delle foto da scattare. In attesa di ok sulla storia e delle 5 o 6 foto.
 - Controllo del 23/09 ore 09:00: nessun commento nuovo, nessun post nuovo dopo il 17/09, nessuna storia nuova dopo quella del 22/09 pomeriggio (la storia sondaggio non risulta pubblicata). Mandato il messaggio "Oggi" con tre azioni: 1) le 5 o 6 foto vere, che bloccano il post settimanale di giovedi 24/09 alle 19:00, 2) ok sulla storia sondaggio gonfiore con il testo esatto delle due schermate e l'orario (verso le 13), 3) richiesta di una domanda vera di un paziente per il post "domanda vera".
+- Esito del 23/09 mattina, risposta di Alessandro: non ha ricevuto domande dai pazienti, non ha foto e non ha la possibilita' di farle, la storia va bene come concetto ma il testo va rivisto. Quindi: due dei tre pilastri della nuova linea contenuti (foto vere, domanda vera) al momento non sono alimentabili.
 
 ## Nuova linea contenuti (22/09, Alessandro chiede un mix: rappresentare la sua persona e far crescere i follower, con equilibrio; la scelta la lascia al manager)
 - Post: uno a settimana, con foto VERE scattate da Alessandro (studio, piatti, spesa, strumenti, lui al lavoro). Niente grafiche a modello, niente testo sull'immagine. Didascalia breve, con un'opinione chiara, tono da persona e non da volantino.
@@ -82,9 +83,11 @@ Aggiornare questo file a ogni cambiamento.
 - Storie: tre volte a settimana, sondaggi e quiz semplici, testi preparati da noi, pubblicati da Alessandro. Servono a coinvolgere e a far girare il profilo.
 - Crescita follower: proporre al momento giusto un post in collaborazione (funzione Collab) con una sede, palestra o collega, per arrivare al loro pubblico.
 - Reel con sola voce: in pausa.
-- Prima azione: storia sondaggio sul gonfiore (testo in sistema/bozze/storia_sondaggio_gonfiore.md), e richiesta ad Alessandro di 5 o 6 foto vere dal telefono.
+- BLOCCO del 23/09: Alessandro non puo' scattare foto nuove e non ha domande di pazienti da usare. Il pilastro "post settimanale con foto vere" e il post "domanda vera" restano fermi finche' non arriva materiale. Non insistere chiedendo foto da scattare.
+- Ripiego deciso il 23/09: a) chiedere solo di guardare nel rullino foto gia' esistenti (studio, piatti, spesa, lui al lavoro), nessuno scatto nuovo; b) per il post "domanda vera" usare le quattro domande gia' in sistema/bozze/domande_frequenti.md, che sono domande reali ricorrenti e non richiedono nulla ad Alessandro; c) finche' manca un'immagine, il post settimanale salta e si tiene il profilo vivo con le storie, che non richiedono foto.
+- Prima azione: storia sondaggio sul gonfiore v2 (testo in sistema/bozze/storia_sondaggio_gonfiore.md).
 
 ## Da fare lato Alessandro
-- Ok sulla storia sondaggio del 22/09 (testo in sistema/bozze/storia_sondaggio_gonfiore.md).
-- Invio di 5 o 6 foto vere scattate col telefono. Lista rimandata il 23/09 mattina: 1) lui in studio mentre misura o scrive, 2) la scrivania con plicometro e metro, 3) un piatto vero di casa sua, 4) la spesa al banco della frutta o verdura, 5) lui in camice all'ingresso dello studio, 6) un dettaglio (bilancia, bloc notes, bicchiere d'acqua).
-- Invio di una domanda vera fatta da un paziente questa settimana (anonima), per il post "domanda vera". Chiesta il 23/09.
+- Ok su una delle due varianti della storia sondaggio gonfiore (v2, sistema/bozze/storia_sondaggio_gonfiore.md). Proposta del manager: variante B.
+- Guardare nel rullino se esistono gia' foto utilizzabili (studio, scrivania con gli strumenti, un piatto, lui al lavoro). Nessuno scatto nuovo richiesto. Se non ce ne sono, il post settimanale resta fermo e si va avanti con le storie.
+- CHIUSI il 23/09, non riproporre: richiesta di scattare 5 o 6 foto nuove, richiesta di una domanda vera di un paziente.
