@@ -1,42 +1,35 @@
-# Storia lancio nuovo sito, v2 (in attesa di ok)
+# Storia lancio nuovo sito, v3 (in attesa di ok)
 
-Deciso con Alessandro il 23/09 sera: lo slot di giovedi 24/09 alle 19:00 va usato per una storia che porta al nuovo sito, gia' online e gia' nel link in bio.
+Quando: giovedi 24/09/2026 alle 18:00 (orario consigliato da Meta Business Suite, scelto da Alessandro al posto delle 19:00).
 Sito: https://www.dottpromenzio.it
 Contenuti verificati il 23/09: servizi, chi sono, cinque sedi (Verona, Settimo di Pescantina, Peschiera del Garda, San Pietro in Cariano, Villafranca), domande frequenti, QUIZ BREVE DI ORIENTAMENTO, modulo di prenotazione, WhatsApp e telefono. Niente prezzi, niente blog.
 
+## VINCOLO TECNICO, importante
+Le storie programmate da Meta Business Suite in pubblicazione automatica escono SENZA gli elementi interattivi: sondaggi, quiz, musica, tag luogo e adesivo link vengono persi nel passaggio automatico. Verificato il 23/09.
+Quindi questa storia NON va programmata: va pubblicata a mano dall'app alle 18:00. Servono circa sessanta secondi.
+Promemoria automatico impostato per giovedi 24/09 alle 17:45.
+
 ## Idea della strategia
-Una storia che dice "il mio sito e' online" prende pochi tocchi: e' una notizia che interessa a lui, non a chi guarda.
-Quindi il link non viene presentato come il sito, ma come il quiz che dice a chi guarda da dove partire. La sequenza e' costruita cosi:
-1. prima schermata senza link, solo un sondaggio: serve a far toccare lo schermo. Chi risponde resta dentro la sequenza e la storia viene mostrata a piu' persone.
-2. seconda schermata con il link: non annuncia il sito, risponde alla domanda del sondaggio.
-3. terza schermata con il link e lo screenshot della home, con il tag delle sedi cosi possono ricondividere.
-Il link non va mai messo sulla stessa schermata del sondaggio: il tocco si divide e si perdono i clic.
+Una storia che dice "il mio sito e' online" prende pochi tocchi: e' una notizia che interessa a lui, non a chi guarda. Il link quindi non viene presentato come il sito, ma come il quiz che dice a chi guarda da dove partire.
+1. prima schermata senza link, solo un sondaggio: serve a far toccare lo schermo, cosi la storia viene mostrata a piu' persone e chi risponde resta dentro la sequenza.
+2. seconda schermata con il link: risponde alla domanda del sondaggio.
+3. terza schermata con il link e il tag delle sedi, che possono ricondividere.
+Il link non va mai sulla stessa schermata del sondaggio: il tocco si divide e si perdono i clic.
 
-## Testi esatti, giovedi 24/09 ore 19:00
+## Immagini pronte
+Tre file 1080x1920 preparati il 23/09 e mandati in chat: storia-sito-1.jpg, storia-sito-2.jpg, storia-sito-3.jpg.
+Sfondo verde molto scuro, testo chiaro, spazio vuoto sotto il testo per gli adesivi. Nessuna foto richiesta ad Alessandro.
 
-Schermata 1 (sondaggio, nessun link)
-Testo: Sai gia' da dove partire con l'alimentazione?
-Opzioni: Si', ho le idee chiare / No, sono fermo
+## Cosa fa Alessandro alle 18:00
+Schermata 1: carica storia-sito-1.jpg, aggiunge l'adesivo SONDAGGIO nello spazio vuoto. Opzioni: "Si', ho le idee chiare" e "No, sono fermo". Nessun link qui.
+Schermata 2: carica storia-sito-2.jpg, aggiunge l'adesivo LINK con https://www.dottpromenzio.it nel terzo centrale, non in basso dove lo copre la barra di risposta. Testo dell'adesivo personalizzato in "Fai il quiz".
+Schermata 3: carica storia-sito-3.jpg, stesso adesivo link, e tagga gli account delle cinque sedi.
 
-Schermata 2 (adesivo link, questa e' la schermata che deve portare i clic)
-Testo: Ho messo online un quiz di sei domande che ti dice da dove partire.
-Un minuto, niente di piu'.
-Sopra l'adesivo link scrivi: Fai il quiz
-Adesivo link: https://www.dottpromenzio.it
-
-Schermata 3 (screenshot della home, adesivo link)
-Testo: Nello stesso sito trovi le cinque sedi, come lavoro e le risposte alle domande che mi fate piu' spesso.
-Adesivo link uguale.
-Tagga qui gli account delle sedi, cosi possono ricondividere la storia al loro pubblico.
-
-## Cosa fa Alessandro dopo la pubblicazione
-- Risponde in DM, uno per uno, a chi vota nel sondaggio: una riga e il link. E' li' che si chiude, il sondaggio apre la chat.
-- Adesivo link nel terzo centrale della schermata, non in basso: in basso lo copre la barra di risposta.
-- Screenshot della home fatto dal telefono, nessuna foto nuova.
+## Dopo la pubblicazione
+Risponde in DM, uno per uno, a chi vota nel sondaggio: una riga e il link. E' li' che si chiude, il sondaggio serve anche ad aprire la chat.
 
 ## Seguito
-- Venerdi 25/09 ora di pranzo: storia sondaggio gonfiore v2 (gia' pronta in sistema/bozze/storia_sondaggio_gonfiore.md), con l'ultima schermata che rimanda di nuovo al quiz.
-- Cosi il link gira due giorni di fila senza ripetere lo stesso messaggio.
+Venerdi 25/09 ora di pranzo: storia sondaggio gonfiore v2 (sistema/bozze/storia_sondaggio_gonfiore.md), con l'ultima schermata che rimanda di nuovo al quiz.
 
 ## Nota per Alessandro
-- Sulla home il sito scrive 24 recensioni a 5 stelle. Se non sono tutte a 5 stelle va corretto sul sito: e' una frase che non possiamo usare da nessuna parte.
+Sulla home il sito scrive 24 recensioni a 5 stelle. Se non sono tutte a 5 stelle va corretto sul sito: e' una frase che non possiamo usare da nessuna parte.
