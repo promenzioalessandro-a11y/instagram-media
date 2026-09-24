@@ -6,6 +6,7 @@ Aggiornare questo file a ogni cambiamento.
 - Mai pubblicare nulla (post, reel, storie, risposte ai commenti) senza bozza mostrata ad Alessandro e suo ok esplicito.
 - STORIE PROGRAMMATE: le storie programmate da Meta Business Suite in pubblicazione automatica escono SENZA gli elementi interattivi. Sondaggi, quiz, domande, musica, tag luogo e ADESIVO LINK vengono persi nel passaggio automatico. Verificato il 23/09. Quindi ogni storia con sondaggio o link va pubblicata a mano dall'app, e noi impostiamo un promemoria a orario per Alessandro. Non proporre mai di programmarla e basta.
 - BOZZE DEI POST: Alessandro non approva un post dal solo testo. Detto il 20/09: "non si puo' scegliere sulla base di un testo, devo vedere la bozza di post vero". Ogni proposta di post va resa in slide vere e mandata come immagini. Il testo da solo non basta mai.
+- IMMAGINI GENERATE: vivono solo nella sessione in cui sono state create. Vanno caricate nel repo (cartella immagini/) subito dopo la generazione, altrimenti al controllo successivo non esistono piu' e vanno rifatte. Imparato il 24/09.
 - Invito all'azione: "Scrivimi INFO nei DM".
 - Prezzi: prima visita da 120 euro, varia per sede (Bonamed 130, nessun pacchetto); percorsi agevolati solo in alcune sedi. Mai un prezzo unico.
 - Cinque sedi in provincia di Verona, piu' la videochiamata: Verona, Settimo di Pescantina, Peschiera del Garda, San Pietro in Cariano, Villafranca.
@@ -41,11 +42,11 @@ Aggiornare questo file a ogni cambiamento.
 
 ## Pubblicato
 - 15/09/2026 20:47 carosello plicometro (media 17875423812562328, https://www.instagram.com/p/DdUY11qjUYq/). Storia di rilancio condivisa il 16/09 14:45.
-- 17/09/2026 19:00 carosello Recensioni v12 (media 18411693961085733, https://www.instagram.com/p/DdZWRIOjph9/). Storia di rilancio con adesivo link il 17/09 alle 19:33. Commenti: applauso del 17/09 gestito con un cuore; commento di Claudio (studio_santelli) del 18/09, risposta di Alessandro il 18/09 alle 18:05. Nessun altro commento al 24/09 mattina.
+- 17/09/2026 19:00 carosello Recensioni v12 (media 18411693961085733, https://www.instagram.com/p/DdZWRIOjph9/). Storia di rilancio con adesivo link il 17/09 alle 19:33. Commenti: applauso del 17/09 gestito con un cuore; commento di Claudio (studio_santelli) del 18/09, risposta di Alessandro il 18/09 alle 18:05. Nessun altro commento al 24/09 sera.
 
 ## In coda (bozze pronte, servono ok)
-- STORIA SITO, giovedi 24/09 verso le 18:35, pubblicazione A MANO. Bozza in sistema/bozze/storia_sito.md. Tre immagini 1080x1920 gia' preparate e mandate in chat il 23/09 sera: storia-sito-1.jpg (sondaggio), storia-sito-2.jpg (link, quiz), storia-sito-3.jpg (link, tag delle sedi). Strategia: il link non viene presentato come il sito ma come il quiz di sei domande; il sondaggio sulla prima schermata serve a far toccare lo schermo, il link non va mai sulla stessa schermata del sondaggio. Promemoria automatico impostato per il 24/09 alle 18:30. In attesa di ok, richiesto di nuovo il 24/09 alle 09:00.
-- Storia sondaggio gonfiore v2: concetto approvato il 23/09, due varianti in sistema/bozze/storia_sondaggio_gonfiore.md, proposta la variante B. Spostata a venerdi 25/09 ora di pranzo, con l'ultima schermata che rimanda al quiz del sito. In attesa di ok, richiesto di nuovo il 24/09 alle 09:00. Con l'ok le immagini si preparano in giornata.
+- STORIA SITO, pubblicazione A MANO. Bozza in sistema/bozze/storia_sito.md. Slot originale giovedi 24/09 alle 18:35: alle 21:05 del 24/09 la storia non risultava ancora pubblicata. Alessandro ha richiesto di nuovo le immagini: rigenerate e rimandate il 24/09 alle 21:10 insieme alle istruzioni esatte sugli adesivi. ATTENZIONE: la terza immagine e' stata rifatta SENZA lo screenshot della home, perche' il file mandato da Alessandro il 23/09 non era piu' disponibile nella sessione. La nuova storia-sito-3.jpg e' una schermata con l'elenco delle cinque sedi piu' la videochiamata, pubblicabile cosi' com'e'; se Alessandro rimanda lo screenshot si ricostruisce la versione con la scheda del sito. Strategia invariata: il link non viene presentato come il sito ma come il quiz di sei domande; il sondaggio sulla prima schermata serve a far toccare lo schermo, il link non va mai sulla stessa schermata del sondaggio.
+- Storia sondaggio gonfiore v2: concetto approvato il 23/09, due varianti in sistema/bozze/storia_sondaggio_gonfiore.md, proposta la variante B. Prevista per venerdi 25/09 ora di pranzo, con l'ultima schermata che rimanda al quiz del sito. In attesa di ok. Con l'ok le immagini si preparano in giornata. Se la storia del sito slitta a venerdi, questa si sposta a sabato o lunedi: due storie con link nello stesso giorno si mangiano i clic a vicenda.
 - Carosello Prima visita v1 e Carosello Gonfiore v1: ARCHIVIATI il 22/09, bocciati da Alessandro ("sempre le stesse foto, sempre lo stesso format, rompe le balle e risulta cringe, perdo follower"). Il formato carosello di testo con il template attuale NON va piu' riproposto. I contenuti del Gonfiore (fretta, bollicine e polioli, fibre aumentate di colpo, intestino pigro, segnali per andare dal medico) restano buoni come materiale per storie.
 - Storia detrazione 19%: ANNULLATA il 20/09. Testo in sistema/bozze/storia_20_09.md come riserva. Non riproporla senza un motivo nuovo.
 - Testi delle quattro domande e risposte in sistema/bozze/domande_frequenti.md: a magazzino, riutilizzabili per post, storie e risposte in DM.
@@ -64,7 +65,7 @@ Aggiornare questo file a ogni cambiamento.
 - 23/09: nuovo sito online e collegato al profilo.
 
 ## Aperto lato gestione
-- Nessun commento in attesa di risposta al 24/09 mattina. Ultimo commento scritto: Claudio (studio_santelli) del 18/09, gia' risposto da Alessandro.
+- Nessun commento in attesa di risposta al 24/09 sera. Ultimo commento scritto: Claudio (studio_santelli) del 18/09, gia' risposto da Alessandro.
 - Controllo del 20/09 ore 09:00: mandato il messaggio "Oggi" con tre azioni. Esito: auto reply disattivata, storia annullata, bozza del post rifiutata nel formato testo.
 - Controllo del 20/09 ore 19:00: nessun commento nuovo. Mandato un messaggio breve con due promemoria.
 - Controllo del 21/09 ore 09:00: mandato il messaggio "Oggi" con le slide dei due caroselli e tre azioni.
@@ -74,6 +75,7 @@ Aggiornare questo file a ogni cambiamento.
 - Controllo del 23/09 ore 09:00: mandato il messaggio "Oggi" con tre azioni. Esito: Alessandro non ha domande di pazienti, non ha foto e non puo' farle, la storia va bene come concetto ma il testo va rivisto.
 - Controllo del 23/09 ore 19:00: nessun commento nuovo, nessun post nuovo, nessuna storia attiva. Mandato un messaggio con due richieste.
 - Controllo del 24/09 ore 09:00: nessun commento nuovo, nessun post nuovo. Mandato il messaggio "Oggi" con tre azioni: ok sulla sequenza della storia del sito di stasera, ok sulla variante B della storia gonfiore per il 25/09, verifica dei numeri delle recensioni. Letta la home del sito: scrive "5,0 su 5 su Google", "24 recensioni" e il link "Leggi tutte le 24 recensioni su Google".
+- Controllo del 24/09 ore 19:00 UTC (21:00 in Italia): nessun commento nuovo dal 18/09, nessuna storia pubblicata, nessun post nuovo. Alessandro ha scritto in chat chiedendo di nuovo le foto della storia. Rigenerate le tre immagini e rimandate con le istruzioni esatte sugli adesivi. Detto ad Alessandro che lo slot delle 18:35 e' passato ma la storia resta valida stasera (24 ore di vita), con l'alternativa di spostarla a venerdi pomeriggio.
 - 23/09 sera, conversazione con Alessandro: ha deciso di usare lo slot di giovedi per una storia che porta al nuovo sito. Voleva programmarla in pubblicazione automatica: spiegato che cosi si perdono sondaggio e adesivo link, quindi si pubblica a mano. Il giovedi ha visite fino alle 18:30, quindi orario fissato verso le 18:35 e promemoria alle 18:30. Preparate e mandate le tre immagini gia' pronte, nessuna foto richiesta. In attesa dell'ok finale sulla sequenza.
 
 ## Nuova linea contenuti (22/09, Alessandro chiede un mix: rappresentare la sua persona e far crescere i follower; la scelta la lascia al manager)
@@ -88,8 +90,9 @@ Aggiornare questo file a ogni cambiamento.
 - Nota di agenda: il giovedi Alessandro e' in visita fino alle 18:30. Tenerne conto quando si fissa un orario.
 
 ## Da fare lato Alessandro
-- Giovedi 24/09 verso le 18:35, appena finita la visita: pubblicare a mano la storia del sito, tre schermate, con sondaggio sulla prima e adesivo link sulla seconda e sulla terza. Istruzioni esatte in sistema/bozze/storia_sito.md.
+- Storia del sito, tre schermate, da pubblicare A MANO dall'app: sondaggio sulla prima, adesivo link sulla seconda e sulla terza, tag delle cinque sedi sulla terza. Immagini rimandate il 24/09 alle 21:10. Si puo' pubblicare stasera stessa o venerdi 25/09 nel pomeriggio, decide Alessandro. Istruzioni esatte in sistema/bozze/storia_sito.md.
 - Dopo la storia: rispondere in DM, uno per uno, a chi vota nel sondaggio, con una riga e il link.
+- Se vuole la terza schermata con lo screenshot del sito dentro la scheda: rimandare lo screenshot della home.
 - Ok su una delle due varianti della storia sondaggio gonfiore (proposta: variante B), per venerdi 25/09.
 - Controllare i numeri delle recensioni. Il 24/09 letta la home: scrive esattamente "5,0 su 5 su Google", "24 recensioni" e il link "Leggi tutte le 24 recensioni su Google". La scheda Google non e' apribile da questo ambiente, quindi il confronto lo fa Alessandro dal telefono: numero di recensioni e media. Se non coincidono, correggere la frase sul sito.
 - Guardare nel rullino se esistono gia' foto utilizzabili. Nessuno scatto nuovo richiesto.
