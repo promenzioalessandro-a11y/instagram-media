@@ -47,12 +47,12 @@ Aggiornare questo file a ogni cambiamento.
 - 15/09/2026 20:47 carosello plicometro (media 17875423812562328, https://www.instagram.com/p/DdUY11qjUYq/). Storia di rilancio condivisa il 16/09 14:45.
 - 17/09/2026 19:00 carosello Recensioni v12 (media 18411693961085733, https://www.instagram.com/p/DdZWRIOjph9/). Storia di rilancio con adesivo link il 17/09 alle 19:33. Commenti: applauso del 17/09 gestito con un cuore; commento di Claudio (studio_santelli) del 18/09, risposta di Alessandro il 18/09 alle 18:05.
 - STORIA SITO: PUBBLICATA da Alessandro da solo tra il 25 e il 27/09, durante il fermo della gestione. Risultato riferito da lui il 27/09 sera: 7 clic sul link. Data esatta non registrata, la storia era gia' scaduta quando la gestione e' ripresa. Il gancio "quiz di sei domande" funziona: si continua a usare il sito come destinazione delle storie.
-- Nessun POST nuovo dal 17/09. Al 27/09 sono dieci giorni. Resta il punto aperto piu' importante.
+- Nessun POST nuovo dal 17/09. Al 28/09 sono undici giorni. Resta il punto aperto piu' importante.
 
 ## In coda (bozze pronte, servono ok)
 - POST 1 "I carboidrati la sera", proposto per MARTEDI' 29/09 alle 20:45. Immagine singola 1080x1350, nessun testo sopra, foto libreria/ritratto-scrivania.jpg. Immagine gia' nel repo: media/mito-carboidrati/v1/01.jpg (verificata, risponde image/jpeg). Script: sistema/immagini/post_mito_carboidrati.py. Testo in sistema/bozze/post_mito_carboidrati.md. Anteprima PDF mandata il 28/09 mattina. In attesa di ok.
 - POST 2 "Quanto peso posso perdere?", proposto per GIOVEDI' 01/10 alle 20:45. Immagine singola 1080x1350, nessun testo sopra, foto libreria/ritratto-giacca-1.jpg. Immagine gia' nel repo: media/quanto-peso/v1/01.jpg (verificata, risponde image/jpeg). Script: sistema/immagini/post_quanto_peso.py. Testo in sistema/bozze/post_quanto_peso.md. Tema preso dalle domande frequenti del sito. In attesa di ok.
-- Storia sondaggio gonfiore, VARIANTE B. Concetto approvato il 23/09, testo in sistema/bozze/storia_sondaggio_gonfiore.md, immagini rigenerabili con sistema/immagini/storia_gonfiore.py. Ridotta a due schermate il 27/09 (prima erano tre): schermata 1 sondaggio "Spesso / Quasi mai", schermata 2 risposta con l'adesivo link al quiz nello spazio in basso. Immagini mandate in chat il 27/09 sera, proposta per lunedi 28/09 all'ora di pranzo. In attesa di ok.
+- Storia sondaggio gonfiore, VARIANTE B. Concetto approvato il 23/09, testo in sistema/bozze/storia_sondaggio_gonfiore.md, immagini rigenerabili con sistema/immagini/storia_gonfiore.py. Ridotta a due schermate il 27/09 (prima erano tre): schermata 1 sondaggio "Spesso / Quasi mai", schermata 2 risposta con l'adesivo link al quiz nello spazio in basso. Immagini mandate in chat il 27/09 sera. Slot di lunedi 28/09 a pranzo NON usato (nessun ok): riproposta per MARTEDI' 29/09 alle 13:00. In attesa di ok.
 - Carosello Prima visita v1 e Carosello Gonfiore v1: ARCHIVIATI il 22/09, bocciati da Alessandro ("sempre le stesse foto, sempre lo stesso format, rompe le balle e risulta cringe, perdo follower"). Il formato carosello di testo con il template attuale NON va piu' riproposto. I contenuti del Gonfiore (fretta, bollicine e polioli, fibre aumentate di colpo, intestino pigro, segnali per andare dal medico) restano buoni come materiale per storie.
 - Storia detrazione 19%: ANNULLATA il 20/09. Testo in sistema/bozze/storia_20_09.md come riserva. Non riproporla senza un motivo nuovo.
 - Testi delle quattro domande e risposte in sistema/bozze/domande_frequenti.md: a magazzino, riutilizzabili per post, storie e risposte in DM.
@@ -72,7 +72,7 @@ Aggiornare questo file a ogni cambiamento.
 - 23/09: nuovo sito online e collegato al profilo.
 
 ## Aperto lato gestione
-- Nessun commento in attesa di risposta al 27/09 sera. Ultimo commento scritto: Claudio (studio_santelli) del 18/09, gia' risposto da Alessandro. Verificato su Windsor il 27/09.
+- Nessun commento in attesa di risposta al 28/09 sera. Ultimo commento scritto: Claudio (studio_santelli) del 18/09, gia' risposto da Alessandro. Verificato su Windsor il 28/09.
 - FERMO 25/09 - 27/09: la gestione si e' interrotta per crediti esauriti, nessun controllo delle 9:00 e delle 19:00 in quei giorni. Detto da Alessandro il 27/09 sera. In quei giorni ha pubblicato la storia del sito da solo.
 - Controllo del 20/09 ore 09:00: auto reply disattivata, storia annullata, bozza del post rifiutata nel formato testo.
 - Controllo del 21/09 ore 09:00: mandato il messaggio "Oggi" con le slide dei due caroselli.
@@ -81,8 +81,8 @@ Aggiornare questo file a ogni cambiamento.
 - Controllo del 24/09 ore 09:00: letta la home del sito: scrive "5,0 su 5 su Google", "24 recensioni" e il link "Leggi tutte le 24 recensioni su Google".
 - Controllo del 24/09 ore 19:00 UTC: immagini della storia rigenerate e rimandate con le istruzioni sugli adesivi.
 - Ripresa del 27/09 ore 20:50 UTC: controllati commenti (nessuno nuovo dal 18/09), post (nessuno dal 17/09), storie (nessuna attiva). Immagini della storia sito rigenerate inutilmente, poi Alessandro ha detto che l'aveva gia' pubblicata. Salvati nel repo i due script generatori. Preparata e mandata la storia gonfiore variante B, due schermate, proposta per lunedi 28/09 a pranzo.
-
 - Controllo del 28/09 ore 06:15 UTC: nessun commento nuovo dal 18/09, nessun post nuovo dal 17/09 (undici giorni), nessuna storia attiva quindi la storia gonfiore non risulta pubblicata. Follower 493, piu' 17 negli ultimi trenta giorni. Preso atto che il rullino non e' arrivato: applicato il ripiego foto e proposti due post costruiti su foto gia' in libreria, con anteprime in PDF.
+- Controllo del 28/09 ore 17:20 UTC: nessun commento nuovo (l'ultimo scritto resta Claudio del 18/09, gia' risposto), nessun post nuovo, nessuna storia attiva quindi la storia gonfiore non e' uscita a pranzo. Nessun ok ancora arrivato sulle tre bozze in coda. Mandato messaggio serale con due sole richieste: ok sul post carboidrati di martedi' 29/09 alle 20:45 e ok sulla storia gonfiore spostata a martedi' 29/09 alle 13:00.
 
 ## Nuova linea contenuti (22/09, Alessandro chiede un mix: rappresentare la sua persona e far crescere i follower; la scelta la lascia al manager)
 - Post: uno a settimana, con foto VERE scattate da Alessandro. Niente grafiche a modello, niente testo sull'immagine. Didascalia breve, con un'opinione chiara, tono da persona e non da volantino.
@@ -98,7 +98,7 @@ Aggiornare questo file a ogni cambiamento.
 
 ## Da fare lato Alessandro
 - Ok sui due post della settimana (martedi' 29/09 e giovedi' 01/10). Anteprime in PDF mandate il 28/09 mattina, una per post: prima pagina con didascalia esatta, orario e testo della storia di rilancio, seconda pagina con l'immagine esatta. Senza ok non si pubblica niente.
-- Ok sulla storia gonfiore variante B per lunedi 28/09 a pranzo. Due schermate: sondaggio sulla prima (Spesso / Quasi mai), adesivo link al quiz nello spazio in basso della seconda, testo dell'adesivo "Fai il quiz". Immagini mandate il 27/09 sera.
+- Ok sulla storia gonfiore variante B, ora per MARTEDI' 29/09 alle 13:00 (lo slot di lunedi 28/09 e' passato senza ok). Due schermate: sondaggio sulla prima (Spesso / Quasi mai), adesivo link al quiz nello spazio in basso della seconda, testo dell'adesivo "Fai il quiz". Immagini mandate il 27/09 sera.
 - Rispondere in DM a chi ha votato nel sondaggio della storia del sito, se non l'ha gia' fatto: una riga e il link.
 - Guardare nel rullino se esistono gia' foto utilizzabili. Nessuno scatto nuovo richiesto. Aperto dal 23/09, e' il blocco principale del piano contenuti.
 - Controllare i numeri delle recensioni. Il 24/09 letta la home: scrive esattamente "5,0 su 5 su Google", "24 recensioni" e il link "Leggi tutte le 24 recensioni su Google". La scheda Google non e' apribile da questo ambiente, quindi il confronto lo fa Alessandro dal telefono: numero di recensioni e media. Se non coincidono, correggere la frase sul sito.
