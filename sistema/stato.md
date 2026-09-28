@@ -31,6 +31,7 @@ Aggiornare questo file a ogni cambiamento.
 - Storie in evidenza: se ne occupa Alessandro da solo (18/09). Non riproporle come compito.
 - Windsor: le metriche dei post con date_preset last_1y tornano vuote; usare date_from/date_to (es. dal 2026-05-01). Notato il 21/09.
 - Windsor get_data: il parametro dell'account si chiama `accounts`, non `account`. Notato il 27/09.
+- RIPIEGO FOTO, deciso il 28/09: le foto gia' presenti in libreria/ nel repo valgono come "foto vere" per il post settimanale. Il blocco del 23/09 riguarda gli scatti NUOVI, non la libreria. In libreria ci sono sette ritratti di Alessandro mai pubblicati (camice, giacca, scrivania) oltre alle foto di cibo, strumenti e sedi. Non restare fermi aspettando il rullino.
 - L'API GitHub non e' raggiungibile da questo ambiente (403): per leggere il repo si usa raw.githubusercontent.com, per scrivere il tool Composio. Non provare a elencare i file con l'API.
 
 ## DM: questione chiusa il 19/09, non riaprirla
@@ -49,6 +50,8 @@ Aggiornare questo file a ogni cambiamento.
 - Nessun POST nuovo dal 17/09. Al 27/09 sono dieci giorni. Resta il punto aperto piu' importante.
 
 ## In coda (bozze pronte, servono ok)
+- POST 1 "I carboidrati la sera", proposto per MARTEDI' 29/09 alle 20:45. Immagine singola 1080x1350, nessun testo sopra, foto libreria/ritratto-scrivania.jpg. Immagine gia' nel repo: media/mito-carboidrati/v1/01.jpg (verificata, risponde image/jpeg). Script: sistema/immagini/post_mito_carboidrati.py. Testo in sistema/bozze/post_mito_carboidrati.md. Anteprima PDF mandata il 28/09 mattina. In attesa di ok.
+- POST 2 "Quanto peso posso perdere?", proposto per GIOVEDI' 01/10 alle 20:45. Immagine singola 1080x1350, nessun testo sopra, foto libreria/ritratto-giacca-1.jpg. Immagine gia' nel repo: media/quanto-peso/v1/01.jpg (verificata, risponde image/jpeg). Script: sistema/immagini/post_quanto_peso.py. Testo in sistema/bozze/post_quanto_peso.md. Tema preso dalle domande frequenti del sito. In attesa di ok.
 - Storia sondaggio gonfiore, VARIANTE B. Concetto approvato il 23/09, testo in sistema/bozze/storia_sondaggio_gonfiore.md, immagini rigenerabili con sistema/immagini/storia_gonfiore.py. Ridotta a due schermate il 27/09 (prima erano tre): schermata 1 sondaggio "Spesso / Quasi mai", schermata 2 risposta con l'adesivo link al quiz nello spazio in basso. Immagini mandate in chat il 27/09 sera, proposta per lunedi 28/09 all'ora di pranzo. In attesa di ok.
 - Carosello Prima visita v1 e Carosello Gonfiore v1: ARCHIVIATI il 22/09, bocciati da Alessandro ("sempre le stesse foto, sempre lo stesso format, rompe le balle e risulta cringe, perdo follower"). Il formato carosello di testo con il template attuale NON va piu' riproposto. I contenuti del Gonfiore (fretta, bollicine e polioli, fibre aumentate di colpo, intestino pigro, segnali per andare dal medico) restano buoni come materiale per storie.
 - Storia detrazione 19%: ANNULLATA il 20/09. Testo in sistema/bozze/storia_20_09.md come riserva. Non riproporla senza un motivo nuovo.
@@ -79,6 +82,8 @@ Aggiornare questo file a ogni cambiamento.
 - Controllo del 24/09 ore 19:00 UTC: immagini della storia rigenerate e rimandate con le istruzioni sugli adesivi.
 - Ripresa del 27/09 ore 20:50 UTC: controllati commenti (nessuno nuovo dal 18/09), post (nessuno dal 17/09), storie (nessuna attiva). Immagini della storia sito rigenerate inutilmente, poi Alessandro ha detto che l'aveva gia' pubblicata. Salvati nel repo i due script generatori. Preparata e mandata la storia gonfiore variante B, due schermate, proposta per lunedi 28/09 a pranzo.
 
+- Controllo del 28/09 ore 06:15 UTC: nessun commento nuovo dal 18/09, nessun post nuovo dal 17/09 (undici giorni), nessuna storia attiva quindi la storia gonfiore non risulta pubblicata. Follower 493, piu' 17 negli ultimi trenta giorni. Preso atto che il rullino non e' arrivato: applicato il ripiego foto e proposti due post costruiti su foto gia' in libreria, con anteprime in PDF.
+
 ## Nuova linea contenuti (22/09, Alessandro chiede un mix: rappresentare la sua persona e far crescere i follower; la scelta la lascia al manager)
 - Post: uno a settimana, con foto VERE scattate da Alessandro. Niente grafiche a modello, niente testo sull'immagine. Didascalia breve, con un'opinione chiara, tono da persona e non da volantino.
 - Ogni due settimane circa: post "domanda vera" (domanda reale di un paziente, anonima, risposta come a voce).
@@ -92,6 +97,7 @@ Aggiornare questo file a ogni cambiamento.
 - Nota del 27/09: dieci giorni senza post. Il blocco delle foto sta fermando tutto il piano. Se al prossimo controllo non arriva nessuna foto dal rullino, proporre un'alternativa che non richieda foto nuove, non restare in attesa.
 
 ## Da fare lato Alessandro
+- Ok sui due post della settimana (martedi' 29/09 e giovedi' 01/10). Anteprime in PDF mandate il 28/09 mattina, una per post: prima pagina con didascalia esatta, orario e testo della storia di rilancio, seconda pagina con l'immagine esatta. Senza ok non si pubblica niente.
 - Ok sulla storia gonfiore variante B per lunedi 28/09 a pranzo. Due schermate: sondaggio sulla prima (Spesso / Quasi mai), adesivo link al quiz nello spazio in basso della seconda, testo dell'adesivo "Fai il quiz". Immagini mandate il 27/09 sera.
 - Rispondere in DM a chi ha votato nel sondaggio della storia del sito, se non l'ha gia' fatto: una riga e il link.
 - Guardare nel rullino se esistono gia' foto utilizzabili. Nessuno scatto nuovo richiesto. Aperto dal 23/09, e' il blocco principale del piano contenuti.
