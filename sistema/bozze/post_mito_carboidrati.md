@@ -1,6 +1,6 @@
 # Bozza post 1: i carboidrati la sera
 
-Stato: in attesa dell'ok di Alessandro (28/09). Proposto per martedì 29/09 alle 20:45.
+Stato: in attesa dell'ok di Alessandro. Riproposto il 12/10 per martedì 13/10 alle 20:45.
 Formato: immagine singola 1080x1350, nessun testo sopra.
 Immagine: media/mito-carboidrati/v1/01.jpg (da libreria/ritratto-scrivania.jpg).
 Script: sistema/immagini/post_mito_carboidrati.py
