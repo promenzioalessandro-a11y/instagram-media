@@ -1,6 +1,6 @@
 # Bozza post 2: quanto peso posso perdere
 
-Stato: in attesa dell'ok di Alessandro (28/09). Proposto per giovedì 01/10 alle 20:45.
+Stato: in attesa dell'ok di Alessandro. Riproposto il 12/10 per giovedì 15/10 alle 20:45.
 Formato: immagine singola 1080x1350, nessun testo sopra.
 Immagine: media/quanto-peso/v1/01.jpg (da libreria/ritratto-giacca-1.jpg).
 Script: sistema/immagini/post_quanto_peso.py
