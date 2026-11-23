@@ -126,3 +126,34 @@ Aggiornare questo file a ogni cambiamento.
 - NOVITA' del 21/10, domanda aperta: dopo cinque scadenze senza risposta e ventuno giorni senza post, chiesto ad Alessandro se vuole che i solleciti quotidiani vengano sospesi. Risposta possibile: "pausa". In quel caso si scrive solo quando c'e' un commento da gestire o quando e' lui a chiedere di ripartire, e il materiale resta pronto. Dal 23/10 la regola e' di fatto questa.
 - CHIUSO il 23/10: controllo dei numeri delle recensioni, chiesto sei volte dal 15/10 al 21/10 senza risposta. Riletta da qui la home del sito: ora scrive "5,0 su 5 su Google", "26 recensioni" e "Leggi tutte le 26 recensioni su Google", contro le 24 del 24/09. Quindi la riga si aggiorna da sola e non resta indietro. La frase pericolosa, cioe' "recensioni tutte a 5 stelle", non c'e' sul sito: "5,0 su 5 su Google, 26 recensioni" resta corretto anche se non tutte sono a cinque stelle, perche' Google arrotonda la media. La scheda Google non si apre da questo ambiente (robots.txt), quindi il confronto esatto non e' verificabile e chiedere un settimo controllo dal telefono sarebbe solo rumore. Se dal telefono Alessandro vede numeri diversi, lo dice lui.
 - CHIUSI il 23/09, non riproporre: richiesta di scattare 5 o 6 foto nuove, richiesta di una domanda vera di un paziente.
+
+## 23 novembre 2026, ripresa della gestione
+
+Stato precedente fermo al 27 settembre. Aggiornamenti di oggi.
+
+### Pubblicato, correzione
+- Il 30 settembre 2026 alle 13:00 UTC e' uscito un carosello (caso Giulia, parola chiave COSTANZA), media 18123676714681211, https://www.instagram.com/p/Dd6ZFR_jkgc/ . Copertura 281, interazioni 24, salvataggi 2, visite al profilo 8. Non era annotato qui.
+- E' l'ultimo post del feed: dal 30 settembre al 23 novembre sono 54 giorni senza pubblicazioni.
+
+### Metriche al 23 novembre 2026 (Windsor, connettore instagram, account 17841401419334510)
+- 504 follower, 289 seguiti, 7 post in tutto.
+- Ultimi 30 giorni: 6 nuovi follower, zero tocchi sui link del profilo, copertura giornaliera quasi a zero nei giorni senza pubblicazioni.
+- Picchi di copertura il 26 ottobre, il 3 e 4 novembre, il 18 e 19 novembre: sono storie pubblicate a mano da Alessandro, non post.
+- Migliori per copertura, tutti serali: 10 giugno 857, 6 maggio 810 (unico di mattina), 21 maggio 604, 19 maggio 555.
+
+### Orario, punto da chiarire con Alessandro
+I timestamp di Windsor sono in UTC. I post con la copertura migliore sono usciti alle 18:45-19:00 UTC, cioe' 20:45-21:00 ora italiana. La regola fissa scritta sopra dice "giovedi' verso le 18:35": se quel 18:35 e' ora italiana, le due letture non coincidono. Finche' non e' chiarito si usa l'orario serale 20:45 ora italiana, come da richiesta.
+
+### Proposte della settimana, in attesa di ok esplicito (non pubblicare senza)
+1. Martedi' 24 novembre, 20:45 ora italiana. Carosello "Gonfiore e glutine", 7 slide. Tema: salute intestinale. Immagini in media/gonfiore/v1/01.jpg ... 07.jpg. Script sistema/v2/carosello_gonfiore.py. Copertina con il volto di Alessandro (ritratto-studio-scrivania.jpg).
+2. Giovedi' 26 novembre, 20:45 ora italiana. Carosello "Prima o dopo l'allenamento", 6 slide. Tema: nutrizione sportiva. Immagini in media/allenamento/v1/01.jpg ... 06.jpg. Script nuovo sistema/v2/carosello_allenamento.py. Copertina ritratto-camice-camicia-blu.jpg.
+
+Temi alternati, nessuna ripetizione di fila. Tutti gli indirizzi raw delle 13 immagini sono stati verificati e rispondono image/jpeg. Le due anteprime in PDF, con didascalia esatta, giorno, ora e le immagini esatte, sono state mandate ad Alessandro il 23 novembre. Nessuna pubblicazione e' stata programmata: si programma solo dopo l'ok.
+
+### Coda, aggiornata
+- La storia sondaggio sul gonfiore, variante B, resta come storia di rilancio del carosello di martedi' invece che come contenuto a se'.
+- La storia sulla detrazione del 19 per cento resta di riserva.
+- Il reel con voce fuori campo resta sospeso: manca il materiale.
+
+### Nota operativa
+In questa sessione l'API GitHub non e' raggiungibile in diretta dal contenitore. Si legge da raw.githubusercontent.com e si scrive con Composio (GITHUB_CREATE_OR_UPDATE_FILE_CONTENTS, account promenzioalessandro-a11y). Le immagini si generano con gli script di sistema/v2 e i font Inter si scaricano da unpkg.com/@expo-google-fonts/inter@0.4.1.
